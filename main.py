@@ -1,15 +1,12 @@
-import time
 import logging
 import pygetwindow as gw
-from PIL import ImageGrab
+from PIL import Image
 import os
 from datetime import datetime
-from PIL import Image
-import pytesseract
 import grayscale_OCR
 import json
 import keypress
-
+import bg_screenshot
 
 
 with open('PATH.json', 'r') as config_file:
@@ -35,7 +32,7 @@ window_title = "Tower Unite"
     # Locate the window
 window = gw.getWindowsWithTitle(window_title)[0]
 
-points_to_check = [(218,372), (214,427), (213,469), (722,375), (765,424)]
+points_to_check = [(218,342), (214,397), (213,439), (722,345), (765,394)]
 
     # Define a target color (black) and tolerance
 target_color = (0, 0, 0)  # Pure black
@@ -62,7 +59,8 @@ blackpoint_counter = 0
 while True:
     keypress.space() 
     print("-------------------------------------------------------------------------\n")
-    screenshot = ImageGrab.grab(bbox=(0, 0, 1024, 798))
+    bg_screenshot.capture()
+    screenshot = Image.open(r"capture.png")
     
     # Black Detection
     def is_color_within_tolerance(color, target_color, tolerance):
@@ -89,13 +87,14 @@ while True:
                 file_path = os.path.join(folder_path, filename)
 
                         # Capture the area
-                screenshot2 = ImageGrab.grab(bbox=(50, 350, 270, 600))
+                crop_area = (50, 320, 270, 570)        
+                Question = screenshot.crop(crop_area)
 
-                screenshot2.save(file_path)
-                screenshot2.save(r"image.png")
-                print(f"Screenshot saved to: {file_path}")
-                logger.info(f"Screenshot saved to: {file_path}")
-                answer = grayscale_OCR.grayscale_OCR(screenshot2,template_path)
+                Question.save(file_path)
+                Question.save(r"image.png")
+                print(f"Question Capture saved to: {file_path}")
+                logger.info(f"Question Capture saved to: {file_path}")
+                answer = grayscale_OCR.grayscale_OCR(Question,template_path)
                 
                 keypress.response(answer)
 

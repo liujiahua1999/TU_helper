@@ -1,5 +1,16 @@
-from playsound import playsound
+import win32gui
 
-alert_sound_path = r"C:\Users\liuji\Downloads\alert.mp3"
+# Find a window by its title
+hwnd = win32gui.FindWindow(None, "Tower Unite  ")
+#hwnd = 3606700
+# Now you can work with the hwnd
+if hwnd:
+    # For example, get the window title
+    window_title = win32gui.GetWindowText(hwnd)
+    print(f"Window Title: {window_title}")
+    
+    # Bring the window to the front
+    win32gui.SetForegroundWindow(hwnd)
+else:
 
-playsound(alert_sound_path)
+    print("Window not found.")

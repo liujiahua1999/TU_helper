@@ -48,8 +48,8 @@ def initialize():
 def space():
     game_window.send_keystrokes("{SPACE}")
     time.sleep(5.5)
-    print("Action Performed: Spacebar")
-    logger.info("Action Performed: Spacebar")
+    print("Keypress: Spacebar")
+    logger.info("Keypress: Spacebar")
 
 
 def response(answer):
@@ -58,3 +58,5 @@ def response(answer):
 
     game_window.send_keystrokes(keycompose)
     time.sleep(0.5)
+    print("Answer: " + str(answer))
+    logger.info("Answer: "+ str(answer))
