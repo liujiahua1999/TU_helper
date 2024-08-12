@@ -1,0 +1,9 @@
+
+{
+    "game_path": "C:\Program Files (x86)\Steam\steamapps\common\Tower Unite\Tower\Binaries\Win64\Tower-Win64-Shipping.exe",
+    "pytesseract_path": "C:\Program Files\Tesseract-OCR\tesseract.exe",
+    "debug_path": "debug",
+    "alert_sound_path": "alert.mp3",
+    "folder_path": "sample",
+    "template_path": "template.png"
+}
