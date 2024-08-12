@@ -1,0 +1,2094 @@
+2024-08-12 06:05:52,852 <pywinauto.application.WindowSpecification object at 0x00000190521FFCD0>
+2024-08-12 06:05:54,917 Initialization Complete
+2024-08-12 06:06:00,477 Action Performed: Spacebar
+2024-08-12 06:06:00,518 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:06:00,519 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:06:00,519 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:06:00,519 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:00,519 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:06,079 Action Performed: Spacebar
+2024-08-12 06:06:06,127 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:06:06,127 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:06:06,128 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:06:06,128 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:06,128 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:11,721 Action Performed: Spacebar
+2024-08-12 06:06:11,764 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:06:11,764 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:06:11,764 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:06:11,764 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:11,764 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:17,322 Action Performed: Spacebar
+2024-08-12 06:06:17,369 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:06:17,369 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:06:17,370 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:06:17,370 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:17,370 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:22,934 Action Performed: Spacebar
+2024-08-12 06:06:22,978 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:22,978 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:22,978 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:06:22,979 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:22,979 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:28,538 Action Performed: Spacebar
+2024-08-12 06:06:28,583 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:28,583 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:28,584 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:06:28,584 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:28,584 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:34,151 Action Performed: Spacebar
+2024-08-12 06:06:34,197 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:06:34,197 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:06:34,197 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:06:34,198 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:34,198 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:39,728 Action Performed: Spacebar
+2024-08-12 06:06:39,774 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:39,774 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:39,774 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:06:39,775 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:39,775 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:45,334 Action Performed: Spacebar
+2024-08-12 06:06:45,376 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:45,376 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:45,376 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:06:45,376 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:45,377 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:50,934 Action Performed: Spacebar
+2024-08-12 06:06:50,980 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:50,980 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:50,980 Captcha Detection: (213,469) color: (132, 112, 0) Counter: 0
+2024-08-12 06:06:50,980 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:50,982 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:56,541 Action Performed: Spacebar
+2024-08-12 06:06:56,584 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:06:56,584 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:06:56,584 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:06:56,585 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:06:56,585 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:02,152 Action Performed: Spacebar
+2024-08-12 06:07:02,192 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:07:02,192 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:02,192 Captcha Detection: (213,469) color: (52, 40, 17) Counter: 0
+2024-08-12 06:07:02,192 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:02,192 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:07,752 Action Performed: Spacebar
+2024-08-12 06:07:07,798 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:07:07,798 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:07,798 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:07:07,799 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:07,799 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:13,346 Action Performed: Spacebar
+2024-08-12 06:07:13,384 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:13,385 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:13,385 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:13,385 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:13,385 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:18,946 Action Performed: Spacebar
+2024-08-12 06:07:18,981 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:18,981 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:18,981 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:18,981 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:18,982 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:24,547 Action Performed: Spacebar
+2024-08-12 06:07:24,588 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:24,588 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:24,588 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:24,588 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:24,588 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:30,154 Action Performed: Spacebar
+2024-08-12 06:07:30,193 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:30,193 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:30,193 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:30,193 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:30,194 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:35,754 Action Performed: Spacebar
+2024-08-12 06:07:35,794 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:35,794 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:35,795 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:35,795 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:35,795 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:41,355 Action Performed: Spacebar
+2024-08-12 06:07:41,395 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:41,395 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:41,396 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:41,396 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:41,396 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:46,955 Action Performed: Spacebar
+2024-08-12 06:07:46,999 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:07:46,999 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:07:46,999 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:07:47,000 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:47,000 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:52,559 Action Performed: Spacebar
+2024-08-12 06:07:52,602 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:07:52,602 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:07:52,602 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:07:52,602 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:52,602 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:58,159 Action Performed: Spacebar
+2024-08-12 06:07:58,200 Captcha Detection: (218,372) color: (74, 61, 23) Counter: 0
+2024-08-12 06:07:58,200 Captcha Detection: (214,427) color: (67, 56, 22) Counter: 0
+2024-08-12 06:07:58,200 Captcha Detection: (213,469) color: (49, 36, 17) Counter: 0
+2024-08-12 06:07:58,200 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:07:58,201 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:03,759 Action Performed: Spacebar
+2024-08-12 06:08:03,805 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:08:03,805 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:08:03,806 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:08:03,806 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:03,806 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:09,372 Action Performed: Spacebar
+2024-08-12 06:08:09,418 Captcha Detection: (218,372) color: (73, 59, 23) Counter: 0
+2024-08-12 06:08:09,419 Captcha Detection: (214,427) color: (147, 115, 0) Counter: 0
+2024-08-12 06:08:09,419 Captcha Detection: (213,469) color: (137, 110, 0) Counter: 0
+2024-08-12 06:08:09,419 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:09,419 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:14,978 Action Performed: Spacebar
+2024-08-12 06:08:15,020 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:08:15,021 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:08:15,021 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:08:15,021 Captcha Detection: (722,375) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:15,021 Captcha Detection: (765,424) color: (31, 31, 31) Counter: 0
+2024-08-12 06:08:20,578 Action Performed: Spacebar
+2024-08-12 06:08:20,619 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:08:20,619 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:08:20,620 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:08:20,620 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:08:20,620 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:26,191 Action Performed: Spacebar
+2024-08-12 06:08:26,234 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:26,235 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:26,235 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:26,235 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:26,235 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:31,796 Action Performed: Spacebar
+2024-08-12 06:08:31,842 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:31,842 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:31,843 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:31,843 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:31,843 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:37,407 Action Performed: Spacebar
+2024-08-12 06:08:37,448 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:37,448 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:37,448 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:37,448 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:37,449 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:43,008 Action Performed: Spacebar
+2024-08-12 06:08:43,047 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:43,047 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:43,047 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:43,047 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:43,047 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:48,606 Action Performed: Spacebar
+2024-08-12 06:08:48,647 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:48,647 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:48,647 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:48,647 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:48,648 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:54,208 Action Performed: Spacebar
+2024-08-12 06:08:54,249 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:54,249 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:54,250 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:54,250 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:54,250 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:08:59,808 Action Performed: Spacebar
+2024-08-12 06:08:59,846 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:08:59,846 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:08:59,847 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:08:59,847 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:08:59,847 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:09:05,408 Action Performed: Spacebar
+2024-08-12 06:09:05,455 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:09:05,455 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:09:05,455 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:09:05,455 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:09:05,455 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:09:11,012 Action Performed: Spacebar
+2024-08-12 06:09:11,055 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:11,055 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:11,055 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:11,056 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:11,056 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:16,616 Action Performed: Spacebar
+2024-08-12 06:09:16,658 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:16,659 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:16,659 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:16,659 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:16,659 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:22,228 Action Performed: Spacebar
+2024-08-12 06:09:22,269 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:22,270 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:22,270 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:22,270 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:22,270 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:27,827 Action Performed: Spacebar
+2024-08-12 06:09:27,867 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:27,867 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:27,867 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:27,867 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:27,867 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:33,427 Action Performed: Spacebar
+2024-08-12 06:09:33,464 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:33,464 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:33,464 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:33,464 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:33,464 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:39,027 Action Performed: Spacebar
+2024-08-12 06:09:39,070 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:39,070 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:39,070 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:39,071 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:39,071 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:44,632 Action Performed: Spacebar
+2024-08-12 06:09:44,674 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:44,674 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:44,674 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:44,674 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:44,675 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:50,232 Action Performed: Spacebar
+2024-08-12 06:09:50,274 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:09:50,275 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:09:50,275 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:09:50,275 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:09:50,275 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:09:55,833 Action Performed: Spacebar
+2024-08-12 06:09:55,874 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:09:55,875 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:09:55,875 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:09:55,875 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:09:55,875 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:01,433 Action Performed: Spacebar
+2024-08-12 06:10:01,473 Captcha Detection: (218,372) color: (76, 62, 23) Counter: 0
+2024-08-12 06:10:01,473 Captcha Detection: (214,427) color: (70, 59, 24) Counter: 0
+2024-08-12 06:10:01,473 Captcha Detection: (213,469) color: (50, 36, 20) Counter: 0
+2024-08-12 06:10:01,473 Captcha Detection: (722,375) color: (210, 167, 89) Counter: 0
+2024-08-12 06:10:01,473 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:10:07,033 Action Performed: Spacebar
+2024-08-12 06:10:07,073 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:10:07,073 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:10:07,073 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:10:07,074 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:10:07,074 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:10:12,634 Action Performed: Spacebar
+2024-08-12 06:10:12,679 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:10:12,680 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:10:12,680 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:10:12,680 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:10:12,680 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:10:18,249 Action Performed: Spacebar
+2024-08-12 06:10:18,292 Captcha Detection: (218,372) color: (72, 57, 23) Counter: 0
+2024-08-12 06:10:18,292 Captcha Detection: (214,427) color: (66, 51, 24) Counter: 0
+2024-08-12 06:10:18,292 Captcha Detection: (213,469) color: (42, 39, 10) Counter: 0
+2024-08-12 06:10:18,292 Captcha Detection: (722,375) color: (141, 115, 28) Counter: 0
+2024-08-12 06:10:18,292 Captcha Detection: (765,424) color: (207, 161, 0) Counter: 0
+2024-08-12 06:10:23,853 Action Performed: Spacebar
+2024-08-12 06:10:23,903 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:10:23,904 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:10:23,904 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:10:23,904 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:10:23,904 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:29,466 Action Performed: Spacebar
+2024-08-12 06:10:29,510 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:10:29,510 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:10:29,510 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:10:29,510 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:10:29,510 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:35,071 Action Performed: Spacebar
+2024-08-12 06:10:35,116 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:10:35,117 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:10:35,117 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:10:35,117 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:10:35,117 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:40,684 Action Performed: Spacebar
+2024-08-12 06:10:40,724 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:10:40,724 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:10:40,725 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:10:40,725 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:10:40,725 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:46,282 Action Performed: Spacebar
+2024-08-12 06:10:46,322 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:10:46,322 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:10:46,322 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:10:46,322 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:10:46,322 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:51,883 Action Performed: Spacebar
+2024-08-12 06:10:51,926 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:10:51,927 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:10:51,927 Captcha Detection: (213,469) color: (54, 43, 18) Counter: 0
+2024-08-12 06:10:51,927 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:10:51,927 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:10:57,488 Action Performed: Spacebar
+2024-08-12 06:10:57,537 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:10:57,537 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:10:57,537 Captcha Detection: (213,469) color: (54, 43, 18) Counter: 0
+2024-08-12 06:10:57,538 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:10:57,538 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:03,100 Action Performed: Spacebar
+2024-08-12 06:11:03,141 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:11:03,142 Captcha Detection: (214,427) color: (63, 50, 23) Counter: 0
+2024-08-12 06:11:03,142 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:11:03,142 Captcha Detection: (722,375) color: (214, 168, 88) Counter: 0
+2024-08-12 06:11:03,142 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:08,700 Action Performed: Spacebar
+2024-08-12 06:11:08,737 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:11:08,737 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:11:08,737 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:11:08,738 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:11:08,738 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:14,300 Action Performed: Spacebar
+2024-08-12 06:11:14,347 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:11:14,347 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:11:14,347 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:11:14,348 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:11:14,348 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:19,907 Action Performed: Spacebar
+2024-08-12 06:11:19,946 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:11:19,946 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:11:19,947 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:11:19,947 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:11:19,947 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:11:25,507 Action Performed: Spacebar
+2024-08-12 06:11:25,546 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:11:25,546 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:11:25,546 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:11:25,546 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:11:25,546 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:31,106 Action Performed: Spacebar
+2024-08-12 06:11:31,154 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:11:31,155 Captcha Detection: (214,427) color: (68, 57, 23) Counter: 0
+2024-08-12 06:11:31,155 Captcha Detection: (213,469) color: (48, 35, 17) Counter: 0
+2024-08-12 06:11:31,155 Captcha Detection: (722,375) color: (121, 98, 0) Counter: 0
+2024-08-12 06:11:31,155 Captcha Detection: (765,424) color: (129, 105, 0) Counter: 0
+2024-08-12 06:11:36,719 Action Performed: Spacebar
+2024-08-12 06:11:36,760 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:11:36,760 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:11:36,760 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:11:36,761 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:11:36,761 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:11:42,319 Action Performed: Spacebar
+2024-08-12 06:11:42,356 Captcha Detection: (218,372) color: (133, 112, 0) Counter: 0
+2024-08-12 06:11:42,356 Captcha Detection: (214,427) color: (64, 51, 23) Counter: 0
+2024-08-12 06:11:42,357 Captcha Detection: (213,469) color: (53, 42, 17) Counter: 0
+2024-08-12 06:11:42,357 Captcha Detection: (722,375) color: (219, 171, 90) Counter: 0
+2024-08-12 06:11:42,357 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:11:47,920 Action Performed: Spacebar
+2024-08-12 06:11:47,964 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:11:47,965 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:11:47,965 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:11:47,965 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:11:47,965 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:11:53,525 Action Performed: Spacebar
+2024-08-12 06:11:53,565 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:11:53,565 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:11:53,565 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:11:53,565 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:11:53,565 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:11:59,125 Action Performed: Spacebar
+2024-08-12 06:11:59,164 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:11:59,164 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:11:59,164 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:11:59,164 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:11:59,164 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:12:04,726 Action Performed: Spacebar
+2024-08-12 06:12:04,769 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:12:04,769 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:12:04,769 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:12:04,769 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:12:04,769 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:10,325 Action Performed: Spacebar
+2024-08-12 06:12:10,365 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:12:10,365 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:12:10,365 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:12:10,365 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:12:10,366 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:15,928 Action Performed: Spacebar
+2024-08-12 06:12:15,970 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:12:15,970 Captcha Detection: (214,427) color: (68, 57, 23) Counter: 0
+2024-08-12 06:12:15,970 Captcha Detection: (213,469) color: (48, 35, 17) Counter: 0
+2024-08-12 06:12:15,970 Captcha Detection: (722,375) color: (212, 168, 90) Counter: 0
+2024-08-12 06:12:15,970 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:12:21,530 Action Performed: Spacebar
+2024-08-12 06:12:21,567 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:12:21,567 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:21,567 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:12:21,567 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:12:21,568 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:12:27,133 Action Performed: Spacebar
+2024-08-12 06:12:27,173 Captcha Detection: (218,372) color: (9, 10, 12) Counter: 0
+2024-08-12 06:12:27,173 Black found at point (218, 372): (9, 10, 12)
+2024-08-12 06:12:27,174 Captcha Detection: (214,427) color: (3, 4, 5) Counter: 1
+2024-08-12 06:12:27,174 Black found at point (214, 427): (3, 4, 5)
+2024-08-12 06:12:27,174 Captcha Detection: (213,469) color: (1, 1, 1) Counter: 2
+2024-08-12 06:12:27,174 Black found at point (213, 469): (1, 1, 1)
+2024-08-12 06:12:27,226 Screenshot saved to: sample\screenshot_2024-08-12_06-12-27.png
+2024-08-12 06:12:27,230 STREAM b'IHDR' 16 13
+2024-08-12 06:12:27,230 STREAM b'sRGB' 41 1
+2024-08-12 06:12:27,230 STREAM b'gAMA' 54 4
+2024-08-12 06:12:27,230 STREAM b'pHYs' 70 9
+2024-08-12 06:12:27,230 STREAM b'IDAT' 91 602
+2024-08-12 06:12:27,235 STREAM b'IHDR' 16 13
+2024-08-12 06:12:27,235 STREAM b'IDAT' 41 21071
+2024-08-12 06:12:27,798 Detected Character: Ww
+2024-08-12 06:12:30,865 Captcha Detection: (722,375) color: (10, 10, 11) Counter: 0
+2024-08-12 06:12:30,865 Black found at point (722, 375): (10, 10, 11)
+2024-08-12 06:12:30,866 Captcha Detection: (765,424) color: (5, 5, 5) Counter: 1
+2024-08-12 06:12:30,866 Black found at point (765, 424): (5, 5, 5)
+2024-08-12 06:12:36,432 Action Performed: Spacebar
+2024-08-12 06:12:36,473 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:12:36,473 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:36,473 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:12:36,473 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:12:36,473 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:42,032 Action Performed: Spacebar
+2024-08-12 06:12:42,071 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:12:42,071 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:42,071 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:12:42,072 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:12:42,072 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:47,632 Action Performed: Spacebar
+2024-08-12 06:12:47,674 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:12:47,674 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:47,674 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:12:47,674 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:12:47,674 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:53,232 Action Performed: Spacebar
+2024-08-12 06:12:53,270 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:12:53,270 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:53,270 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:12:53,270 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:12:53,270 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:12:58,832 Action Performed: Spacebar
+2024-08-12 06:12:58,877 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:12:58,877 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:12:58,877 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:12:58,877 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:12:58,877 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:04,440 Action Performed: Spacebar
+2024-08-12 06:13:04,478 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:13:04,478 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:13:04,478 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:13:04,479 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:13:04,479 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:10,037 Action Performed: Spacebar
+2024-08-12 06:13:10,074 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:10,074 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:10,074 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:10,074 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:10,074 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:15,632 Action Performed: Spacebar
+2024-08-12 06:13:15,675 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:15,675 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:15,675 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:15,675 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:15,676 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:21,235 Action Performed: Spacebar
+2024-08-12 06:13:21,276 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:21,276 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:21,277 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:21,277 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:21,277 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:26,836 Action Performed: Spacebar
+2024-08-12 06:13:26,873 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:26,873 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:26,873 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:26,873 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:26,873 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:32,436 Action Performed: Spacebar
+2024-08-12 06:13:32,480 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:32,480 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:32,480 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:32,481 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:32,481 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:38,038 Action Performed: Spacebar
+2024-08-12 06:13:38,077 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:38,077 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:38,077 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:38,077 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:38,078 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:43,634 Action Performed: Spacebar
+2024-08-12 06:13:43,673 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:13:43,673 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:13:43,673 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:13:43,673 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:13:43,673 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:49,237 Action Performed: Spacebar
+2024-08-12 06:13:49,283 Captcha Detection: (218,372) color: (55, 211, 0) Counter: 0
+2024-08-12 06:13:49,283 Captcha Detection: (214,427) color: (50, 39, 15) Counter: 0
+2024-08-12 06:13:49,283 Captcha Detection: (213,469) color: (46, 166, 0) Counter: 0
+2024-08-12 06:13:49,283 Captcha Detection: (722,375) color: (203, 161, 87) Counter: 0
+2024-08-12 06:13:49,283 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:13:54,842 Action Performed: Spacebar
+2024-08-12 06:13:54,881 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:13:54,881 Captcha Detection: (214,427) color: (63, 50, 23) Counter: 0
+2024-08-12 06:13:54,881 Captcha Detection: (213,469) color: (53, 42, 17) Counter: 0
+2024-08-12 06:13:54,881 Captcha Detection: (722,375) color: (216, 168, 88) Counter: 0
+2024-08-12 06:13:54,881 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:00,441 Action Performed: Spacebar
+2024-08-12 06:14:00,480 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:00,480 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:00,481 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:00,481 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:00,481 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:06,043 Action Performed: Spacebar
+2024-08-12 06:14:06,081 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:14:06,081 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:14:06,081 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:14:06,082 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:14:06,082 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:11,642 Action Performed: Spacebar
+2024-08-12 06:14:11,680 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:14:11,680 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:14:11,680 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:14:11,680 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:14:11,680 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:17,240 Action Performed: Spacebar
+2024-08-12 06:14:17,278 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:17,278 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:17,278 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:17,278 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:17,279 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:22,838 Action Performed: Spacebar
+2024-08-12 06:14:22,874 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:22,874 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:22,874 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:22,874 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:22,875 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:28,439 Action Performed: Spacebar
+2024-08-12 06:14:28,480 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:28,481 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:28,481 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:28,481 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:28,481 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:34,039 Action Performed: Spacebar
+2024-08-12 06:14:34,077 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:34,077 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:34,077 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:34,077 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:34,078 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:39,641 Action Performed: Spacebar
+2024-08-12 06:14:39,682 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:39,682 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:39,682 Captcha Detection: (213,469) color: (104, 93, 0) Counter: 0
+2024-08-12 06:14:39,682 Captcha Detection: (722,375) color: (114, 91, 0) Counter: 0
+2024-08-12 06:14:39,682 Captcha Detection: (765,424) color: (115, 95, 0) Counter: 0
+2024-08-12 06:14:45,243 Action Performed: Spacebar
+2024-08-12 06:14:45,280 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:45,280 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:45,280 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:45,280 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:45,280 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:50,843 Action Performed: Spacebar
+2024-08-12 06:14:50,887 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:14:50,887 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:14:50,887 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:14:50,887 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:14:50,887 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:14:56,448 Action Performed: Spacebar
+2024-08-12 06:14:56,486 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:14:56,486 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:14:56,486 Captcha Detection: (213,469) color: (53, 41, 17) Counter: 0
+2024-08-12 06:14:56,486 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:14:56,486 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:02,048 Action Performed: Spacebar
+2024-08-12 06:15:02,084 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:02,085 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:02,085 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:02,085 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:02,085 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:07,642 Action Performed: Spacebar
+2024-08-12 06:15:07,682 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:07,682 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:07,682 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:07,682 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:07,683 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:13,243 Action Performed: Spacebar
+2024-08-12 06:15:13,280 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:13,280 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:13,280 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:13,280 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:13,280 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:18,843 Action Performed: Spacebar
+2024-08-12 06:15:18,889 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:18,889 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:18,889 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:18,889 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:18,889 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:24,449 Action Performed: Spacebar
+2024-08-12 06:15:24,489 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:24,489 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:24,489 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:24,489 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:24,489 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:30,046 Action Performed: Spacebar
+2024-08-12 06:15:30,090 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:30,090 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:30,090 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:30,090 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:30,090 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:35,650 Action Performed: Spacebar
+2024-08-12 06:15:35,690 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:35,690 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:35,691 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:35,691 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:35,691 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:41,250 Action Performed: Spacebar
+2024-08-12 06:15:41,292 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:41,292 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:41,293 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:41,293 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:41,293 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:46,851 Action Performed: Spacebar
+2024-08-12 06:15:46,892 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:15:46,892 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:15:46,892 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:15:46,893 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:15:46,893 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:52,451 Action Performed: Spacebar
+2024-08-12 06:15:52,489 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:52,489 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:52,489 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:52,489 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:52,490 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:15:58,047 Action Performed: Spacebar
+2024-08-12 06:15:58,092 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:15:58,093 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:15:58,093 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:15:58,093 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:15:58,093 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:03,652 Action Performed: Spacebar
+2024-08-12 06:16:03,697 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:16:03,697 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:03,697 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:16:03,697 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:16:03,697 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:09,264 Action Performed: Spacebar
+2024-08-12 06:16:09,306 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:16:09,306 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:16:09,306 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:16:09,306 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:16:09,307 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:14,865 Action Performed: Spacebar
+2024-08-12 06:16:14,912 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:16:14,912 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:16:14,912 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:16:14,912 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:16:14,912 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:20,481 Action Performed: Spacebar
+2024-08-12 06:16:20,521 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:20,522 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:20,522 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:20,522 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:20,522 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:16:26,082 Action Performed: Spacebar
+2024-08-12 06:16:26,122 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:16:26,122 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:16:26,122 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:16:26,122 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:16:26,122 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:31,686 Action Performed: Spacebar
+2024-08-12 06:16:31,731 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:16:31,731 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:16:31,731 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:16:31,731 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:16:31,731 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:16:37,291 Action Performed: Spacebar
+2024-08-12 06:16:37,337 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:37,337 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:37,337 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:37,337 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:37,337 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:16:42,904 Action Performed: Spacebar
+2024-08-12 06:16:42,942 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:42,942 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:42,942 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:42,942 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:42,942 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:16:48,503 Action Performed: Spacebar
+2024-08-12 06:16:48,540 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:48,541 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:48,541 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:48,541 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:48,541 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:16:54,103 Action Performed: Spacebar
+2024-08-12 06:16:54,147 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:54,147 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:54,148 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:54,148 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:54,148 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:16:59,715 Action Performed: Spacebar
+2024-08-12 06:16:59,759 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:16:59,759 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:16:59,760 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:16:59,760 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:16:59,760 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:17:05,319 Action Performed: Spacebar
+2024-08-12 06:17:05,362 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:17:05,362 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:17:05,362 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:17:05,363 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:17:05,363 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:10,931 Action Performed: Spacebar
+2024-08-12 06:17:10,974 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:17:10,974 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:17:10,974 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:17:10,975 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:17:10,975 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:16,532 Action Performed: Spacebar
+2024-08-12 06:17:16,571 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:17:16,571 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:17:16,571 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:17:16,571 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:17:16,571 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:22,132 Action Performed: Spacebar
+2024-08-12 06:17:22,176 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:17:22,176 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:17:22,176 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:17:22,176 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:17:22,176 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:27,741 Action Performed: Spacebar
+2024-08-12 06:17:27,787 Captcha Detection: (218,372) color: (231, 193, 0) Counter: 0
+2024-08-12 06:17:27,787 Captcha Detection: (214,427) color: (194, 175, 0) Counter: 0
+2024-08-12 06:17:27,787 Captcha Detection: (213,469) color: (57, 45, 20) Counter: 0
+2024-08-12 06:17:27,787 Captcha Detection: (722,375) color: (168, 145, 12) Counter: 0
+2024-08-12 06:17:27,787 Captcha Detection: (765,424) color: (98, 78, 0) Counter: 0
+2024-08-12 06:17:33,347 Action Performed: Spacebar
+2024-08-12 06:17:33,392 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:17:33,392 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:17:33,392 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:17:33,392 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:17:33,393 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:38,959 Action Performed: Spacebar
+2024-08-12 06:17:39,002 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:17:39,002 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:17:39,002 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:17:39,002 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:17:39,002 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:17:44,564 Action Performed: Spacebar
+2024-08-12 06:17:44,615 Captcha Detection: (218,372) color: (73, 59, 24) Counter: 0
+2024-08-12 06:17:44,616 Captcha Detection: (214,427) color: (65, 52, 25) Counter: 0
+2024-08-12 06:17:44,616 Captcha Detection: (213,469) color: (56, 45, 20) Counter: 0
+2024-08-12 06:17:44,616 Captcha Detection: (722,375) color: (209, 166, 89) Counter: 0
+2024-08-12 06:17:44,616 Captcha Detection: (765,424) color: (254, 254, 0) Counter: 0
+2024-08-12 06:17:50,180 Action Performed: Spacebar
+2024-08-12 06:17:50,224 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:17:50,225 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:17:50,225 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:17:50,225 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:17:50,225 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:17:55,794 Action Performed: Spacebar
+2024-08-12 06:17:55,837 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:17:55,837 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:17:55,837 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:17:55,837 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:17:55,837 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:01,397 Action Performed: Spacebar
+2024-08-12 06:18:01,443 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:01,444 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:01,444 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:01,444 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:01,444 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:07,009 Action Performed: Spacebar
+2024-08-12 06:18:07,053 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:07,053 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:07,053 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:07,054 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:07,054 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:12,614 Action Performed: Spacebar
+2024-08-12 06:18:12,657 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:18:12,657 Captcha Detection: (214,427) color: (67, 56, 23) Counter: 0
+2024-08-12 06:18:12,657 Captcha Detection: (213,469) color: (49, 35, 18) Counter: 0
+2024-08-12 06:18:12,657 Captcha Detection: (722,375) color: (172, 141, 56) Counter: 0
+2024-08-12 06:18:12,657 Captcha Detection: (765,424) color: (159, 136, 76) Counter: 0
+2024-08-12 06:18:18,214 Action Performed: Spacebar
+2024-08-12 06:18:18,252 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:18,252 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:18,252 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:18,254 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:18,254 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:23,812 Action Performed: Spacebar
+2024-08-12 06:18:23,852 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:23,852 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:23,852 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:23,852 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:23,853 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:29,413 Action Performed: Spacebar
+2024-08-12 06:18:29,457 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:29,458 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:29,458 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:29,458 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:29,458 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:35,017 Action Performed: Spacebar
+2024-08-12 06:18:35,060 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:18:35,060 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:18:35,060 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:18:35,061 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:18:35,061 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:40,617 Action Performed: Spacebar
+2024-08-12 06:18:40,657 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:40,657 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:40,657 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:40,657 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:40,657 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:46,218 Action Performed: Spacebar
+2024-08-12 06:18:46,261 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:18:46,261 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:18:46,261 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:18:46,262 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:18:46,262 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:51,819 Action Performed: Spacebar
+2024-08-12 06:18:51,857 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:51,857 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:51,857 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:51,857 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:51,857 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:18:57,417 Action Performed: Spacebar
+2024-08-12 06:18:57,454 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:18:57,454 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:18:57,454 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:18:57,454 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:18:57,454 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:03,012 Action Performed: Spacebar
+2024-08-12 06:19:03,049 Captcha Detection: (218,372) color: (128, 107, 55) Counter: 0
+2024-08-12 06:19:03,049 Captcha Detection: (214,427) color: (138, 122, 117) Counter: 0
+2024-08-12 06:19:03,049 Captcha Detection: (213,469) color: (108, 85, 0) Counter: 0
+2024-08-12 06:19:03,049 Captcha Detection: (722,375) color: (214, 167, 87) Counter: 0
+2024-08-12 06:19:03,050 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:08,613 Action Performed: Spacebar
+2024-08-12 06:19:08,658 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:19:08,658 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:08,658 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:19:08,659 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:19:08,659 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:14,219 Action Performed: Spacebar
+2024-08-12 06:19:14,264 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:19:14,264 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:14,264 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:19:14,264 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:19:14,265 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:19,829 Action Performed: Spacebar
+2024-08-12 06:19:19,873 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:19:19,873 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:19:19,873 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:19:19,874 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:19:19,874 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:25,435 Action Performed: Spacebar
+2024-08-12 06:19:25,477 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:19:25,477 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:19:25,477 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:19:25,477 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:19:25,478 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:31,036 Action Performed: Spacebar
+2024-08-12 06:19:31,087 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:19:31,087 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:31,088 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:19:31,088 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:19:31,088 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:19:36,655 Action Performed: Spacebar
+2024-08-12 06:19:36,703 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:19:36,703 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:36,703 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:19:36,703 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:19:36,703 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:42,264 Action Performed: Spacebar
+2024-08-12 06:19:42,304 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:19:42,304 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:42,304 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:19:42,304 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:19:42,305 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:47,866 Action Performed: Spacebar
+2024-08-12 06:19:47,909 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:19:47,909 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:47,910 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:19:47,910 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:19:47,910 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:53,470 Action Performed: Spacebar
+2024-08-12 06:19:53,510 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:19:53,511 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:19:53,511 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:19:53,511 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:19:53,511 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:19:59,071 Action Performed: Spacebar
+2024-08-12 06:19:59,109 Captcha Detection: (218,372) color: (108, 91, 62) Counter: 0
+2024-08-12 06:19:59,109 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:19:59,109 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:19:59,110 Captcha Detection: (722,375) color: (212, 168, 91) Counter: 0
+2024-08-12 06:19:59,110 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:04,669 Action Performed: Spacebar
+2024-08-12 06:20:04,712 Captcha Detection: (218,372) color: (72, 59, 23) Counter: 0
+2024-08-12 06:20:04,713 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:04,713 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:20:04,713 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:20:04,713 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:10,270 Action Performed: Spacebar
+2024-08-12 06:20:10,313 Captcha Detection: (218,372) color: (70, 56, 22) Counter: 0
+2024-08-12 06:20:10,313 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:20:10,313 Captcha Detection: (213,469) color: (55, 44, 20) Counter: 0
+2024-08-12 06:20:10,313 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:20:10,313 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:15,872 Action Performed: Spacebar
+2024-08-12 06:20:15,914 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:15,915 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:15,915 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:15,915 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:20:15,916 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:21,482 Action Performed: Spacebar
+2024-08-12 06:20:21,519 Captcha Detection: (218,372) color: (75, 62, 23) Counter: 0
+2024-08-12 06:20:21,519 Captcha Detection: (214,427) color: (71, 59, 25) Counter: 0
+2024-08-12 06:20:21,519 Captcha Detection: (213,469) color: (48, 35, 16) Counter: 0
+2024-08-12 06:20:21,520 Captcha Detection: (722,375) color: (207, 164, 87) Counter: 0
+2024-08-12 06:20:21,520 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:27,085 Action Performed: Spacebar
+2024-08-12 06:20:27,122 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:27,122 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:27,122 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:27,123 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:20:27,123 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:32,684 Action Performed: Spacebar
+2024-08-12 06:20:32,721 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:32,721 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:32,721 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:32,721 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:20:32,721 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:38,285 Action Performed: Spacebar
+2024-08-12 06:20:38,323 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:38,323 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:38,324 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:38,324 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:20:38,324 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:43,886 Action Performed: Spacebar
+2024-08-12 06:20:43,929 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:43,929 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:43,929 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:43,929 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:20:43,929 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:49,490 Action Performed: Spacebar
+2024-08-12 06:20:49,532 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:20:49,532 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:20:49,532 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:20:49,532 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:20:49,533 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:20:55,090 Action Performed: Spacebar
+2024-08-12 06:20:55,131 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:20:55,131 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:20:55,131 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:20:55,131 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:20:55,131 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:00,691 Action Performed: Spacebar
+2024-08-12 06:21:00,726 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:21:00,726 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:21:00,726 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:21:00,727 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:21:00,727 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:06,285 Action Performed: Spacebar
+2024-08-12 06:21:06,329 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:21:06,330 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:21:06,330 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:21:06,330 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:21:06,330 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:11,890 Action Performed: Spacebar
+2024-08-12 06:21:11,932 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:21:11,932 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:21:11,932 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:21:11,932 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:21:11,932 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:17,490 Action Performed: Spacebar
+2024-08-12 06:21:17,530 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:21:17,530 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:21:17,530 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:21:17,530 Captcha Detection: (722,375) color: (206, 163, 88) Counter: 0
+2024-08-12 06:21:17,531 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:23,092 Action Performed: Spacebar
+2024-08-12 06:21:23,137 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:21:23,137 Captcha Detection: (214,427) color: (66, 53, 25) Counter: 0
+2024-08-12 06:21:23,138 Captcha Detection: (213,469) color: (51, 40, 17) Counter: 0
+2024-08-12 06:21:23,138 Captcha Detection: (722,375) color: (206, 163, 87) Counter: 0
+2024-08-12 06:21:23,138 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:28,707 Action Performed: Spacebar
+2024-08-12 06:21:28,749 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:21:28,750 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:21:28,750 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:21:28,750 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:21:28,750 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:34,310 Action Performed: Spacebar
+2024-08-12 06:21:34,349 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:21:34,349 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:21:34,349 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:21:34,349 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:21:34,349 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:39,911 Action Performed: Spacebar
+2024-08-12 06:21:39,951 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:21:39,951 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:21:39,951 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:21:39,951 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:21:39,952 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:45,511 Action Performed: Spacebar
+2024-08-12 06:21:45,547 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:21:45,547 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:21:45,547 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:21:45,548 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:21:45,548 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:51,107 Action Performed: Spacebar
+2024-08-12 06:21:51,146 Captcha Detection: (218,372) color: (74, 61, 23) Counter: 0
+2024-08-12 06:21:51,146 Captcha Detection: (214,427) color: (68, 57, 23) Counter: 0
+2024-08-12 06:21:51,146 Captcha Detection: (213,469) color: (50, 37, 18) Counter: 0
+2024-08-12 06:21:51,146 Captcha Detection: (722,375) color: (208, 165, 88) Counter: 0
+2024-08-12 06:21:51,146 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:21:56,707 Action Performed: Spacebar
+2024-08-12 06:21:56,744 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:21:56,744 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:21:56,744 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:21:56,745 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:21:56,745 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:02,308 Action Performed: Spacebar
+2024-08-12 06:22:02,348 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:02,348 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:02,348 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:02,348 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:02,348 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:07,907 Action Performed: Spacebar
+2024-08-12 06:22:07,947 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:07,947 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:07,948 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:07,948 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:07,948 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:13,506 Action Performed: Spacebar
+2024-08-12 06:22:13,549 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:13,549 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:13,549 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:13,549 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:13,549 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:19,107 Action Performed: Spacebar
+2024-08-12 06:22:19,150 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:19,151 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:19,151 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:19,151 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:19,151 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:24,712 Action Performed: Spacebar
+2024-08-12 06:22:24,749 Captcha Detection: (218,372) color: (117, 107, 0) Counter: 0
+2024-08-12 06:22:24,750 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:24,750 Captcha Detection: (213,469) color: (54, 43, 18) Counter: 0
+2024-08-12 06:22:24,750 Captcha Detection: (722,375) color: (113, 89, 0) Counter: 0
+2024-08-12 06:22:24,750 Captcha Detection: (765,424) color: (139, 112, 0) Counter: 0
+2024-08-12 06:22:30,308 Action Performed: Spacebar
+2024-08-12 06:22:30,346 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:30,346 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:30,346 Captcha Detection: (213,469) color: (54, 43, 18) Counter: 0
+2024-08-12 06:22:30,346 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:30,348 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:35,909 Action Performed: Spacebar
+2024-08-12 06:22:35,948 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:22:35,948 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:35,948 Captcha Detection: (213,469) color: (54, 43, 18) Counter: 0
+2024-08-12 06:22:35,948 Captcha Detection: (722,375) color: (214, 167, 87) Counter: 0
+2024-08-12 06:22:35,948 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:41,509 Action Performed: Spacebar
+2024-08-12 06:22:41,550 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:41,550 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:41,551 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:41,551 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:41,551 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:47,109 Action Performed: Spacebar
+2024-08-12 06:22:47,152 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:47,152 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:47,152 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:47,152 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:47,152 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:52,713 Action Performed: Spacebar
+2024-08-12 06:22:52,757 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:22:52,757 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:22:52,757 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:22:52,757 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:22:52,757 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:22:58,313 Action Performed: Spacebar
+2024-08-12 06:22:58,355 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:22:58,355 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:22:58,355 Captcha Detection: (213,469) color: (53, 41, 17) Counter: 0
+2024-08-12 06:22:58,355 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:22:58,355 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:23:03,914 Action Performed: Spacebar
+2024-08-12 06:23:03,959 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:23:03,959 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:03,959 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:23:03,959 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:23:03,959 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:23:09,527 Action Performed: Spacebar
+2024-08-12 06:23:09,565 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:23:09,565 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:23:09,565 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:23:09,565 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:23:09,566 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:23:15,126 Action Performed: Spacebar
+2024-08-12 06:23:15,168 Captcha Detection: (218,372) color: (79, 59, 27) Counter: 0
+2024-08-12 06:23:15,169 Captcha Detection: (214,427) color: (69, 49, 25) Counter: 0
+2024-08-12 06:23:15,169 Captcha Detection: (213,469) color: (43, 33, 9) Counter: 0
+2024-08-12 06:23:15,169 Captcha Detection: (722,375) color: (220, 180, 73) Counter: 0
+2024-08-12 06:23:15,169 Captcha Detection: (765,424) color: (241, 193, 0) Counter: 0
+2024-08-12 06:23:20,731 Action Performed: Spacebar
+2024-08-12 06:23:20,774 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:23:20,774 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:20,774 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:23:20,774 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:23:20,775 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:23:26,342 Action Performed: Spacebar
+2024-08-12 06:23:26,386 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:23:26,386 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:26,386 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:23:26,386 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:23:26,386 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:23:31,945 Action Performed: Spacebar
+2024-08-12 06:23:31,987 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:23:31,987 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:31,987 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:23:31,987 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:23:31,987 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:23:37,545 Action Performed: Spacebar
+2024-08-12 06:23:37,585 Captcha Detection: (218,372) color: (93, 125, 0) Counter: 0
+2024-08-12 06:23:37,586 Captcha Detection: (214,427) color: (117, 101, 0) Counter: 0
+2024-08-12 06:23:37,586 Captcha Detection: (213,469) color: (133, 115, 49) Counter: 0
+2024-08-12 06:23:37,586 Captcha Detection: (722,375) color: (182, 157, 31) Counter: 0
+2024-08-12 06:23:37,586 Captcha Detection: (765,424) color: (118, 102, 73) Counter: 0
+2024-08-12 06:23:43,146 Action Performed: Spacebar
+2024-08-12 06:23:43,183 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:23:43,184 Captcha Detection: (214,427) color: (68, 57, 23) Counter: 0
+2024-08-12 06:23:43,184 Captcha Detection: (213,469) color: (48, 35, 16) Counter: 0
+2024-08-12 06:23:43,184 Captcha Detection: (722,375) color: (212, 168, 90) Counter: 0
+2024-08-12 06:23:43,184 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:23:48,746 Action Performed: Spacebar
+2024-08-12 06:23:48,790 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:23:48,791 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:48,791 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:23:48,791 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:23:48,791 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:23:54,352 Action Performed: Spacebar
+2024-08-12 06:23:54,390 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:23:54,391 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:23:54,391 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:23:54,391 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:23:54,391 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:23:59,952 Action Performed: Spacebar
+2024-08-12 06:23:59,989 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:23:59,989 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:23:59,989 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:23:59,989 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:23:59,990 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:05,551 Action Performed: Spacebar
+2024-08-12 06:24:05,587 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:05,588 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:05,588 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:05,588 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:05,588 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:11,146 Action Performed: Spacebar
+2024-08-12 06:24:11,187 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:11,187 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:11,187 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:11,187 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:11,187 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:16,746 Action Performed: Spacebar
+2024-08-12 06:24:16,783 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:16,783 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:16,783 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:16,783 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:16,783 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:22,346 Action Performed: Spacebar
+2024-08-12 06:24:22,386 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:22,386 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:22,386 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:22,386 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:22,386 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:27,947 Action Performed: Spacebar
+2024-08-12 06:24:27,983 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:27,983 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:27,983 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:27,983 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:27,983 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:33,549 Action Performed: Spacebar
+2024-08-12 06:24:33,587 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:33,587 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:33,587 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:33,588 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:33,588 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:39,149 Action Performed: Spacebar
+2024-08-12 06:24:39,192 Captcha Detection: (218,372) color: (70, 57, 22) Counter: 0
+2024-08-12 06:24:39,193 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:24:39,193 Captcha Detection: (213,469) color: (51, 40, 16) Counter: 0
+2024-08-12 06:24:39,193 Captcha Detection: (722,375) color: (211, 167, 91) Counter: 0
+2024-08-12 06:24:39,193 Captcha Detection: (765,424) color: (254, 252, 0) Counter: 0
+2024-08-12 06:24:44,754 Action Performed: Spacebar
+2024-08-12 06:24:44,803 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:24:44,803 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:24:44,804 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:24:44,804 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:24:44,804 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:24:50,366 Action Performed: Spacebar
+2024-08-12 06:24:50,408 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:24:50,408 Captcha Detection: (214,427) color: (67, 56, 22) Counter: 0
+2024-08-12 06:24:50,408 Captcha Detection: (213,469) color: (50, 37, 20) Counter: 0
+2024-08-12 06:24:50,408 Captcha Detection: (722,375) color: (205, 163, 87) Counter: 0
+2024-08-12 06:24:50,408 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:24:55,967 Action Performed: Spacebar
+2024-08-12 06:24:56,005 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:24:56,005 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:24:56,005 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:24:56,005 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:24:56,005 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:01,567 Action Performed: Spacebar
+2024-08-12 06:25:01,609 Captcha Detection: (218,372) color: (73, 60, 22) Counter: 0
+2024-08-12 06:25:01,609 Captcha Detection: (214,427) color: (66, 55, 22) Counter: 0
+2024-08-12 06:25:01,610 Captcha Detection: (213,469) color: (50, 36, 19) Counter: 0
+2024-08-12 06:25:01,610 Captcha Detection: (722,375) color: (205, 163, 87) Counter: 0
+2024-08-12 06:25:01,610 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:07,167 Action Performed: Spacebar
+2024-08-12 06:25:07,207 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:25:07,207 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:25:07,207 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:25:07,207 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:25:07,208 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:12,767 Action Performed: Spacebar
+2024-08-12 06:25:12,805 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:25:12,805 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:25:12,805 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:25:12,805 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:25:12,806 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:18,371 Action Performed: Spacebar
+2024-08-12 06:25:18,412 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:25:18,413 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:25:18,413 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:25:18,413 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:25:18,413 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:23,971 Action Performed: Spacebar
+2024-08-12 06:25:24,014 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:25:24,014 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:25:24,014 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:25:24,014 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:25:24,014 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:29,573 Action Performed: Spacebar
+2024-08-12 06:25:29,611 Captcha Detection: (218,372) color: (71, 57, 22) Counter: 0
+2024-08-12 06:25:29,611 Captcha Detection: (214,427) color: (62, 50, 22) Counter: 0
+2024-08-12 06:25:29,611 Captcha Detection: (213,469) color: (55, 44, 19) Counter: 0
+2024-08-12 06:25:29,612 Captcha Detection: (722,375) color: (204, 162, 87) Counter: 0
+2024-08-12 06:25:29,612 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:35,169 Action Performed: Spacebar
+2024-08-12 06:25:35,206 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:25:35,206 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:25:35,206 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:25:35,206 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:25:35,207 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:40,767 Action Performed: Spacebar
+2024-08-12 06:25:40,804 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:25:40,805 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:25:40,805 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:25:40,805 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:25:40,805 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:46,364 Action Performed: Spacebar
+2024-08-12 06:25:46,402 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:25:46,402 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:25:46,402 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:25:46,402 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:25:46,402 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:51,963 Action Performed: Spacebar
+2024-08-12 06:25:52,001 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:25:52,002 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:25:52,002 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:25:52,002 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:25:52,002 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:25:57,566 Action Performed: Spacebar
+2024-08-12 06:25:57,604 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:25:57,604 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:25:57,604 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:25:57,605 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:25:57,605 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:03,167 Action Performed: Spacebar
+2024-08-12 06:26:03,207 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:03,207 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:03,208 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:03,208 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:03,208 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:08,766 Action Performed: Spacebar
+2024-08-12 06:26:08,806 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:08,806 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:08,806 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:08,806 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:08,806 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:14,365 Action Performed: Spacebar
+2024-08-12 06:26:14,403 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:14,403 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:14,403 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:14,403 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:14,403 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:19,966 Action Performed: Spacebar
+2024-08-12 06:26:20,007 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:20,008 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:20,008 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:20,008 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:20,008 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:25,566 Action Performed: Spacebar
+2024-08-12 06:26:25,608 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:25,608 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:25,608 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:25,609 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:25,609 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:31,167 Action Performed: Spacebar
+2024-08-12 06:26:31,215 Captcha Detection: (218,372) color: (71, 58, 23) Counter: 0
+2024-08-12 06:26:31,216 Captcha Detection: (214,427) color: (63, 51, 23) Counter: 0
+2024-08-12 06:26:31,216 Captcha Detection: (213,469) color: (53, 42, 18) Counter: 0
+2024-08-12 06:26:31,216 Captcha Detection: (722,375) color: (207, 164, 88) Counter: 0
+2024-08-12 06:26:31,216 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:36,774 Action Performed: Spacebar
+2024-08-12 06:26:36,821 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:26:36,821 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:26:36,821 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:26:36,822 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:26:36,822 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:42,384 Action Performed: Spacebar
+2024-08-12 06:26:42,428 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:26:42,428 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:26:42,428 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:26:42,428 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:26:42,429 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:47,991 Action Performed: Spacebar
+2024-08-12 06:26:48,029 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:26:48,029 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:26:48,029 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:26:48,029 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:26:48,029 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:53,590 Action Performed: Spacebar
+2024-08-12 06:26:53,626 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:26:53,626 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:26:53,626 Captcha Detection: (213,469) color: (53, 42, 17) Counter: 0
+2024-08-12 06:26:53,626 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:26:53,626 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:26:59,185 Action Performed: Spacebar
+2024-08-12 06:26:59,223 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:26:59,224 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:26:59,224 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:26:59,224 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:26:59,224 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:04,786 Action Performed: Spacebar
+2024-08-12 06:27:04,827 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:27:04,827 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:27:04,828 Captcha Detection: (213,469) color: (53, 41, 17) Counter: 0
+2024-08-12 06:27:04,828 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:27:04,828 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:10,387 Action Performed: Spacebar
+2024-08-12 06:27:10,434 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:27:10,434 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:27:10,435 Captcha Detection: (213,469) color: (53, 41, 17) Counter: 0
+2024-08-12 06:27:10,435 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:27:10,435 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:15,993 Action Performed: Spacebar
+2024-08-12 06:27:16,028 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:27:16,028 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:27:16,029 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:27:16,029 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:27:16,029 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:21,589 Action Performed: Spacebar
+2024-08-12 06:27:21,630 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:27:21,630 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:27:21,631 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:27:21,631 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:27:21,631 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:27,188 Action Performed: Spacebar
+2024-08-12 06:27:27,230 Captcha Detection: (218,372) color: (72, 58, 23) Counter: 0
+2024-08-12 06:27:27,230 Captcha Detection: (214,427) color: (62, 50, 23) Counter: 0
+2024-08-12 06:27:27,230 Captcha Detection: (213,469) color: (52, 41, 17) Counter: 0
+2024-08-12 06:27:27,230 Captcha Detection: (722,375) color: (208, 165, 89) Counter: 0
+2024-08-12 06:27:27,230 Captcha Detection: (765,424) color: (255, 254, 0) Counter: 0
+2024-08-12 06:27:32,788 Action Performed: Spacebar
+2024-08-12 06:27:32,832 Captcha Detection: (218,372) color: (9, 9, 11) Counter: 0
+2024-08-12 06:27:32,832 Black found at point (218, 372): (9, 9, 11)
+2024-08-12 06:27:32,832 Captcha Detection: (214,427) color: (3, 4, 4) Counter: 1
+2024-08-12 06:27:32,832 Black found at point (214, 427): (3, 4, 4)
+2024-08-12 06:27:32,832 Captcha Detection: (213,469) color: (1, 1, 1) Counter: 2
+2024-08-12 06:27:32,832 Black found at point (213, 469): (1, 1, 1)
+2024-08-12 06:27:32,883 Screenshot saved to: sample\screenshot_2024-08-12_06-27-32.png
+2024-08-12 06:27:32,884 STREAM b'IHDR' 16 13
+2024-08-12 06:27:32,884 STREAM b'sRGB' 41 1
+2024-08-12 06:27:32,884 STREAM b'gAMA' 54 4
+2024-08-12 06:27:32,884 STREAM b'pHYs' 70 9
+2024-08-12 06:27:32,884 STREAM b'IDAT' 91 602
+2024-08-12 06:27:32,888 STREAM b'IHDR' 16 13
+2024-08-12 06:27:32,888 STREAM b'IDAT' 41 21261
+2024-08-12 06:27:33,259 Detected Character: n
+2024-08-12 06:27:36,324 Captcha Detection: (722,375) color: (9, 10, 11) Counter: 0
+2024-08-12 06:27:36,324 Black found at point (722, 375): (9, 10, 11)
+2024-08-12 06:27:36,325 Captcha Detection: (765,424) color: (5, 5, 5) Counter: 1
+2024-08-12 06:27:36,325 Black found at point (765, 424): (5, 5, 5)
+2024-08-12 06:27:41,882 Action Performed: Spacebar
+2024-08-12 06:27:41,921 Captcha Detection: (218,372) color: (23, 13, 2) Counter: 0
+2024-08-12 06:27:41,921 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:27:41,921 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:27:41,921 Captcha Detection: (722,375) color: (188, 130, 0) Counter: 0
+2024-08-12 06:27:41,923 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:27:47,481 Action Performed: Spacebar
+2024-08-12 06:27:47,527 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:27:47,527 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:27:47,528 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:27:47,528 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:27:47,528 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:27:53,092 Action Performed: Spacebar
+2024-08-12 06:27:53,127 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:27:53,127 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:27:53,129 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:27:53,129 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:27:53,129 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:27:58,692 Action Performed: Spacebar
+2024-08-12 06:27:58,735 Captcha Detection: (218,372) color: (21, 12, 2) Counter: 0
+2024-08-12 06:27:58,736 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:27:58,736 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:27:58,736 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:27:58,736 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:04,298 Action Performed: Spacebar
+2024-08-12 06:28:04,340 Captcha Detection: (218,372) color: (30, 19, 4) Counter: 0
+2024-08-12 06:28:04,340 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:04,340 Captcha Detection: (213,469) color: (34, 21, 3) Counter: 0
+2024-08-12 06:28:04,340 Captcha Detection: (722,375) color: (193, 132, 0) Counter: 0
+2024-08-12 06:28:04,340 Captcha Detection: (765,424) color: (255, 244, 1) Counter: 0
+2024-08-12 06:28:09,898 Action Performed: Spacebar
+2024-08-12 06:28:09,934 Captcha Detection: (218,372) color: (23, 14, 3) Counter: 0
+2024-08-12 06:28:09,934 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:28:09,934 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:09,934 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:09,934 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:15,492 Action Performed: Spacebar
+2024-08-12 06:28:15,531 Captcha Detection: (218,372) color: (23, 14, 3) Counter: 0
+2024-08-12 06:28:15,531 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:15,531 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:15,532 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:15,532 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:21,092 Action Performed: Spacebar
+2024-08-12 06:28:21,130 Captcha Detection: (218,372) color: (28, 20, 6) Counter: 0
+2024-08-12 06:28:21,130 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:21,130 Captcha Detection: (213,469) color: (33, 21, 3) Counter: 0
+2024-08-12 06:28:21,130 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:28:21,130 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:26,694 Action Performed: Spacebar
+2024-08-12 06:28:26,739 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:28:26,739 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:26,739 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:26,739 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:26,739 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:32,299 Action Performed: Spacebar
+2024-08-12 06:28:32,337 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:28:32,337 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:32,337 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:32,337 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:28:32,339 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:37,897 Action Performed: Spacebar
+2024-08-12 06:28:37,936 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:28:37,937 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:37,937 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:37,937 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:37,937 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:43,496 Action Performed: Spacebar
+2024-08-12 06:28:43,531 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:28:43,532 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:43,532 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:43,532 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:28:43,532 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:49,097 Action Performed: Spacebar
+2024-08-12 06:28:49,135 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:28:49,135 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:49,136 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:49,136 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:49,136 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:28:54,697 Action Performed: Spacebar
+2024-08-12 06:28:54,737 Captcha Detection: (218,372) color: (22, 12, 2) Counter: 0
+2024-08-12 06:28:54,737 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:28:54,737 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:28:54,737 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:28:54,737 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:00,297 Action Performed: Spacebar
+2024-08-12 06:29:00,337 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:00,337 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:00,337 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:00,337 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:29:00,338 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:05,899 Action Performed: Spacebar
+2024-08-12 06:29:05,938 Captcha Detection: (218,372) color: (22, 12, 2) Counter: 0
+2024-08-12 06:29:05,938 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:05,938 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:05,938 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:05,939 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:11,499 Action Performed: Spacebar
+2024-08-12 06:29:11,539 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:11,539 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:11,540 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:11,540 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:29:11,540 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:17,098 Action Performed: Spacebar
+2024-08-12 06:29:17,140 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:17,140 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:17,140 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:17,140 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:17,140 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:22,699 Action Performed: Spacebar
+2024-08-12 06:29:22,734 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:22,734 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:22,735 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:22,735 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:22,735 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:28,299 Action Performed: Spacebar
+2024-08-12 06:29:28,342 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:28,342 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:28,342 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:28,342 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:28,343 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:33,903 Action Performed: Spacebar
+2024-08-12 06:29:33,946 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:33,947 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:33,947 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:33,947 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:33,947 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:39,505 Action Performed: Spacebar
+2024-08-12 06:29:39,539 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:39,539 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:39,540 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:39,540 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:29:39,540 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:45,101 Action Performed: Spacebar
+2024-08-12 06:29:45,138 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:29:45,138 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:45,138 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:45,138 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:29:45,138 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:50,700 Action Performed: Spacebar
+2024-08-12 06:29:50,746 Captcha Detection: (218,372) color: (21, 12, 2) Counter: 0
+2024-08-12 06:29:50,746 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:29:50,746 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:29:50,746 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:29:50,746 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:29:56,314 Action Performed: Spacebar
+2024-08-12 06:29:56,353 Captcha Detection: (218,372) color: (217, 154, 54) Counter: 0
+2024-08-12 06:29:56,353 Captcha Detection: (214,427) color: (147, 56, 67) Counter: 0
+2024-08-12 06:29:56,354 Captcha Detection: (213,469) color: (150, 55, 71) Counter: 0
+2024-08-12 06:29:56,354 Captcha Detection: (722,375) color: (176, 124, 8) Counter: 0
+2024-08-12 06:29:56,354 Captcha Detection: (765,424) color: (251, 255, 0) Counter: 0
+2024-08-12 06:30:01,914 Action Performed: Spacebar
+2024-08-12 06:30:01,950 Captcha Detection: (218,372) color: (24, 15, 2) Counter: 0
+2024-08-12 06:30:01,950 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:30:01,950 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:30:01,950 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:30:01,951 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:30:07,515 Action Performed: Spacebar
+2024-08-12 06:30:07,554 Captcha Detection: (218,372) color: (29, 20, 6) Counter: 0
+2024-08-12 06:30:07,554 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:30:07,555 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:30:07,555 Captcha Detection: (722,375) color: (192, 132, 0) Counter: 0
+2024-08-12 06:30:07,555 Captcha Detection: (765,424) color: (255, 243, 1) Counter: 0
+2024-08-12 06:30:13,113 Action Performed: Spacebar
+2024-08-12 06:30:13,154 Captcha Detection: (218,372) color: (30, 22, 7) Counter: 0
+2024-08-12 06:30:13,154 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:30:13,154 Captcha Detection: (213,469) color: (33, 21, 4) Counter: 0
+2024-08-12 06:30:13,154 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:30:13,154 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:30:18,714 Action Performed: Spacebar
+2024-08-12 06:30:18,752 Captcha Detection: (218,372) color: (31, 21, 5) Counter: 0
+2024-08-12 06:30:18,752 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:30:18,752 Captcha Detection: (213,469) color: (34, 21, 3) Counter: 0
+2024-08-12 06:30:18,752 Captcha Detection: (722,375) color: (194, 133, 0) Counter: 0
+2024-08-12 06:30:18,752 Captcha Detection: (765,424) color: (255, 244, 1) Counter: 0
+2024-08-12 06:30:24,314 Action Performed: Spacebar
+2024-08-12 06:30:24,354 Captcha Detection: (218,372) color: (25, 16, 4) Counter: 0
+2024-08-12 06:30:24,354 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:30:24,354 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:30:24,354 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:30:24,354 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:30:29,914 Action Performed: Spacebar
+2024-08-12 06:30:29,951 Captcha Detection: (218,372) color: (28, 17, 3) Counter: 0
+2024-08-12 06:30:29,952 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:30:29,952 Captcha Detection: (213,469) color: (34, 21, 3) Counter: 0
+2024-08-12 06:30:29,952 Captcha Detection: (722,375) color: (192, 132, 0) Counter: 0
+2024-08-12 06:30:29,952 Captcha Detection: (765,424) color: (255, 243, 1) Counter: 0
+2024-08-12 06:30:35,514 Action Performed: Spacebar
+2024-08-12 06:30:35,560 Captcha Detection: (218,372) color: (23, 14, 3) Counter: 0
+2024-08-12 06:30:35,560 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:30:35,560 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:30:35,561 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:30:35,561 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:30:41,120 Action Performed: Spacebar
+2024-08-12 06:30:41,160 Captcha Detection: (218,372) color: (24, 16, 3) Counter: 0
+2024-08-12 06:30:41,161 Captcha Detection: (214,427) color: (31, 21, 3) Counter: 0
+2024-08-12 06:30:41,161 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:30:41,161 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:30:41,161 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:30:46,721 Action Performed: Spacebar
+2024-08-12 06:30:46,759 Captcha Detection: (218,372) color: (29, 22, 7) Counter: 0
+2024-08-12 06:30:46,759 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:30:46,759 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:30:46,759 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:30:46,759 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:30:52,321 Action Performed: Spacebar
+2024-08-12 06:30:52,362 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:30:52,362 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:30:52,362 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:30:52,362 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:30:52,362 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:30:57,920 Action Performed: Spacebar
+2024-08-12 06:30:57,963 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:30:57,963 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:30:57,963 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:30:57,963 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:30:57,963 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:03,521 Action Performed: Spacebar
+2024-08-12 06:31:03,556 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:31:03,556 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:03,557 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:31:03,557 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:31:03,557 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:09,115 Action Performed: Spacebar
+2024-08-12 06:31:09,153 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:31:09,153 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:09,154 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:31:09,154 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:31:09,154 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:14,715 Action Performed: Spacebar
+2024-08-12 06:31:14,751 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:31:14,751 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:14,751 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:31:14,751 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:31:14,751 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:20,316 Action Performed: Spacebar
+2024-08-12 06:31:20,359 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:31:20,359 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:20,359 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:31:20,359 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:31:20,359 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:25,920 Action Performed: Spacebar
+2024-08-12 06:31:25,967 Captcha Detection: (218,372) color: (22, 12, 2) Counter: 0
+2024-08-12 06:31:25,968 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:25,968 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:31:25,968 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:31:25,968 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:31:31,533 Action Performed: Spacebar
+2024-08-12 06:31:31,575 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:31:31,575 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:31,575 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:31:31,575 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:31:31,575 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:31:37,133 Action Performed: Spacebar
+2024-08-12 06:31:37,172 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:31:37,172 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:37,172 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:31:37,173 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:31:37,173 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:31:42,735 Action Performed: Spacebar
+2024-08-12 06:31:42,781 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:31:42,781 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:42,781 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:31:42,781 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:31:42,781 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:31:48,341 Action Performed: Spacebar
+2024-08-12 06:31:48,380 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:31:48,381 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:48,381 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:31:48,381 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:31:48,381 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:31:53,941 Action Performed: Spacebar
+2024-08-12 06:31:53,981 Captcha Detection: (218,372) color: (19, 11, 1) Counter: 0
+2024-08-12 06:31:53,981 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:31:53,981 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:31:53,981 Captcha Detection: (722,375) color: (186, 128, 0) Counter: 0
+2024-08-12 06:31:53,982 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:31:59,539 Action Performed: Spacebar
+2024-08-12 06:31:59,579 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:31:59,579 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:31:59,579 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:31:59,579 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:31:59,579 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:05,140 Action Performed: Spacebar
+2024-08-12 06:32:05,178 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:05,178 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:05,178 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:05,179 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:05,179 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:10,739 Action Performed: Spacebar
+2024-08-12 06:32:10,781 Captcha Detection: (218,372) color: (19, 11, 1) Counter: 0
+2024-08-12 06:32:10,781 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:32:10,781 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:32:10,782 Captcha Detection: (722,375) color: (186, 128, 0) Counter: 0
+2024-08-12 06:32:10,782 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:32:16,341 Action Performed: Spacebar
+2024-08-12 06:32:16,378 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:16,379 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:16,379 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:16,379 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:16,379 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:21,940 Action Performed: Spacebar
+2024-08-12 06:32:21,984 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:21,985 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:21,985 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:21,985 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:21,985 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:27,540 Action Performed: Spacebar
+2024-08-12 06:32:27,579 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:27,579 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:27,580 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:27,580 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:27,580 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:33,139 Action Performed: Spacebar
+2024-08-12 06:32:33,179 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:33,179 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:33,179 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:33,180 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:33,180 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:38,740 Action Performed: Spacebar
+2024-08-12 06:32:38,781 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:38,781 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:32:38,782 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:32:38,782 Captcha Detection: (722,375) color: (186, 128, 0) Counter: 0
+2024-08-12 06:32:38,782 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:32:44,341 Action Performed: Spacebar
+2024-08-12 06:32:44,377 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:44,378 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:44,378 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:44,378 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:44,378 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:49,936 Action Performed: Spacebar
+2024-08-12 06:32:49,976 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:49,978 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:49,978 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:49,978 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:49,978 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:32:55,537 Action Performed: Spacebar
+2024-08-12 06:32:55,574 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:32:55,574 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:32:55,574 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:32:55,574 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:32:55,574 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:01,137 Action Performed: Spacebar
+2024-08-12 06:33:01,179 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:01,179 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:01,180 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:01,180 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:01,180 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:06,738 Action Performed: Spacebar
+2024-08-12 06:33:06,780 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:06,780 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:06,781 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:06,781 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:06,781 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:12,343 Action Performed: Spacebar
+2024-08-12 06:33:12,384 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:12,384 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:12,384 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:12,385 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:12,385 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:17,942 Action Performed: Spacebar
+2024-08-12 06:33:17,979 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:17,979 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:17,979 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:17,979 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:17,979 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:23,541 Action Performed: Spacebar
+2024-08-12 06:33:23,582 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:23,582 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:23,582 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:23,582 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:23,582 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:29,142 Action Performed: Spacebar
+2024-08-12 06:33:29,179 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:29,179 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:29,179 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:29,179 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:29,180 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:34,742 Action Performed: Spacebar
+2024-08-12 06:33:34,783 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:33:34,783 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:34,783 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:33:34,784 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:33:34,784 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:33:40,313 Action Performed: Spacebar
+2024-08-12 06:33:40,353 Captcha Detection: (218,372) color: (23, 13, 2) Counter: 0
+2024-08-12 06:33:40,353 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:40,353 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:33:40,354 Captcha Detection: (722,375) color: (188, 130, 0) Counter: 0
+2024-08-12 06:33:40,354 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:33:45,915 Action Performed: Spacebar
+2024-08-12 06:33:45,957 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:33:45,957 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:45,957 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:33:45,957 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:33:45,957 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:33:51,515 Action Performed: Spacebar
+2024-08-12 06:33:51,560 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:33:51,560 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:51,560 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:33:51,560 Captcha Detection: (722,375) color: (188, 130, 0) Counter: 0
+2024-08-12 06:33:51,560 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:33:57,127 Action Performed: Spacebar
+2024-08-12 06:33:57,168 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:33:57,168 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:33:57,169 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:33:57,169 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:33:57,169 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:02,727 Action Performed: Spacebar
+2024-08-12 06:34:02,764 Captcha Detection: (218,372) color: (202, 77, 91) Counter: 0
+2024-08-12 06:34:02,764 Captcha Detection: (214,427) color: (139, 56, 66) Counter: 0
+2024-08-12 06:34:02,764 Captcha Detection: (213,469) color: (140, 61, 64) Counter: 0
+2024-08-12 06:34:02,764 Captcha Detection: (722,375) color: (168, 114, 2) Counter: 0
+2024-08-12 06:34:02,764 Captcha Detection: (765,424) color: (255, 214, 2) Counter: 0
+2024-08-12 06:34:08,328 Action Performed: Spacebar
+2024-08-12 06:34:08,370 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:08,370 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:08,371 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:08,371 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:34:08,371 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:13,933 Action Performed: Spacebar
+2024-08-12 06:34:13,972 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:34:13,972 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:13,973 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:34:13,973 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:34:13,973 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:34:19,532 Action Performed: Spacebar
+2024-08-12 06:34:19,569 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:19,569 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:19,569 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:19,569 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:34:19,569 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:25,127 Action Performed: Spacebar
+2024-08-12 06:34:25,169 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:25,169 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:25,169 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:25,169 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:34:25,170 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:30,727 Action Performed: Spacebar
+2024-08-12 06:34:30,764 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:30,764 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:30,764 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:30,764 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:34:30,764 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:36,327 Action Performed: Spacebar
+2024-08-12 06:34:36,368 Captcha Detection: (218,372) color: (21, 12, 2) Counter: 0
+2024-08-12 06:34:36,368 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:36,369 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:36,369 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:34:36,369 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:41,929 Action Performed: Spacebar
+2024-08-12 06:34:41,964 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:41,964 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:41,964 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:41,964 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:34:41,965 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:47,530 Action Performed: Spacebar
+2024-08-12 06:34:47,575 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:47,576 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:47,576 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:47,576 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:34:47,576 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:34:53,136 Action Performed: Spacebar
+2024-08-12 06:34:53,173 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:34:53,173 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:53,173 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:34:53,173 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:34:53,173 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:34:58,734 Action Performed: Spacebar
+2024-08-12 06:34:58,770 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:34:58,771 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:34:58,771 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:34:58,771 Captcha Detection: (722,375) color: (189, 131, 0) Counter: 0
+2024-08-12 06:34:58,771 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:35:04,330 Action Performed: Spacebar
+2024-08-12 06:35:04,379 Captcha Detection: (218,372) color: (22, 13, 2) Counter: 0
+2024-08-12 06:35:04,379 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:35:04,379 Captcha Detection: (213,469) color: (33, 20, 3) Counter: 0
+2024-08-12 06:35:04,380 Captcha Detection: (722,375) color: (189, 130, 0) Counter: 0
+2024-08-12 06:35:04,380 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:35:09,946 Action Performed: Spacebar
+2024-08-12 06:35:09,992 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:35:09,992 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:35:09,992 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:35:09,993 Captcha Detection: (722,375) color: (191, 132, 1) Counter: 0
+2024-08-12 06:35:09,993 Captcha Detection: (765,424) color: (254, 238, 28) Counter: 0
+2024-08-12 06:35:15,553 Action Performed: Spacebar
+2024-08-12 06:35:15,594 Captcha Detection: (218,372) color: (20, 11, 1) Counter: 0
+2024-08-12 06:35:15,594 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:35:15,594 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:15,595 Captcha Detection: (722,375) color: (186, 128, 0) Counter: 0
+2024-08-12 06:35:15,595 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:35:21,164 Action Performed: Spacebar
+2024-08-12 06:35:21,205 Captcha Detection: (218,372) color: (19, 11, 1) Counter: 0
+2024-08-12 06:35:21,206 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:35:21,206 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:21,206 Captcha Detection: (722,375) color: (186, 128, 0) Counter: 0
+2024-08-12 06:35:21,206 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:35:26,856 Action Performed: Spacebar
+2024-08-12 06:35:26,897 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:35:26,897 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:35:26,897 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:26,897 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:35:26,897 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:35:32,459 Action Performed: Spacebar
+2024-08-12 06:35:32,500 Captcha Detection: (218,372) color: (18, 9, 1) Counter: 0
+2024-08-12 06:35:32,500 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:35:32,500 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:32,500 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:35:32,500 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:35:38,058 Action Performed: Spacebar
+2024-08-12 06:35:38,104 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:35:38,104 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:35:38,104 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:38,104 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:35:38,104 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:35:43,665 Action Performed: Spacebar
+2024-08-12 06:35:43,706 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:35:43,706 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:35:43,707 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:43,707 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:35:43,707 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:35:49,266 Action Performed: Spacebar
+2024-08-12 06:35:49,307 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:35:49,307 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:35:49,307 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:49,307 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:35:49,308 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:35:54,865 Action Performed: Spacebar
+2024-08-12 06:35:54,908 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:35:54,908 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:35:54,908 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:35:54,908 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:35:54,909 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:36:00,464 Action Performed: Spacebar
+2024-08-12 06:36:00,502 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:36:00,503 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:36:00,503 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:00,503 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:36:00,503 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:36:06,066 Action Performed: Spacebar
+2024-08-12 06:36:06,105 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:06,105 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:06,106 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:06,106 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:06,106 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:11,666 Action Performed: Spacebar
+2024-08-12 06:36:11,704 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:36:11,704 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:36:11,704 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:11,704 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:36:11,705 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:36:17,266 Action Performed: Spacebar
+2024-08-12 06:36:17,305 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:36:17,305 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:36:17,305 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:17,305 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:36:17,305 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:36:22,868 Action Performed: Spacebar
+2024-08-12 06:36:22,904 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:22,904 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:22,905 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:22,905 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:22,905 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:28,466 Action Performed: Spacebar
+2024-08-12 06:36:28,511 Captcha Detection: (218,372) color: (18, 10, 1) Counter: 0
+2024-08-12 06:36:28,511 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:36:28,511 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:28,511 Captcha Detection: (722,375) color: (190, 131, 0) Counter: 0
+2024-08-12 06:36:28,512 Captcha Detection: (765,424) color: (254, 239, 24) Counter: 0
+2024-08-12 06:36:34,077 Action Performed: Spacebar
+2024-08-12 06:36:34,126 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:34,126 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:34,126 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:34,126 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:34,126 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:39,682 Action Performed: Spacebar
+2024-08-12 06:36:39,718 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:39,719 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:39,719 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:39,719 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:39,719 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:45,280 Action Performed: Spacebar
+2024-08-12 06:36:45,322 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:45,323 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:45,323 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:45,323 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:45,323 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:50,885 Action Performed: Spacebar
+2024-08-12 06:36:50,925 Captcha Detection: (218,372) color: (16, 8, 0) Counter: 0
+2024-08-12 06:36:50,925 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:36:50,925 Captcha Detection: (213,469) color: (35, 22, 4) Counter: 0
+2024-08-12 06:36:50,926 Captcha Detection: (722,375) color: (192, 132, 1) Counter: 0
+2024-08-12 06:36:50,926 Captcha Detection: (765,424) color: (255, 242, 1) Counter: 0
+2024-08-12 06:36:56,484 Action Performed: Spacebar
+2024-08-12 06:36:56,531 Captcha Detection: (218,372) color: (20, 11, 2) Counter: 0
+2024-08-12 06:36:56,531 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:36:56,531 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:36:56,531 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:36:56,531 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:02,097 Action Performed: Spacebar
+2024-08-12 06:37:02,141 Captcha Detection: (218,372) color: (20, 11, 2) Counter: 0
+2024-08-12 06:37:02,141 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:37:02,141 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:02,141 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:02,141 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:07,700 Action Performed: Spacebar
+2024-08-12 06:37:07,739 Captcha Detection: (218,372) color: (21, 12, 2) Counter: 0
+2024-08-12 06:37:07,739 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:37:07,740 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:37:07,740 Captcha Detection: (722,375) color: (188, 130, 0) Counter: 0
+2024-08-12 06:37:07,740 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:37:13,301 Action Performed: Spacebar
+2024-08-12 06:37:13,339 Captcha Detection: (218,372) color: (20, 11, 2) Counter: 0
+2024-08-12 06:37:13,339 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:37:13,339 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:13,339 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:13,339 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:18,896 Action Performed: Spacebar
+2024-08-12 06:37:18,935 Captcha Detection: (218,372) color: (20, 11, 2) Counter: 0
+2024-08-12 06:37:18,935 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:37:18,936 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:18,936 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:18,936 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:24,497 Action Performed: Spacebar
+2024-08-12 06:37:24,532 Captcha Detection: (218,372) color: (28, 17, 3) Counter: 0
+2024-08-12 06:37:24,532 Captcha Detection: (214,427) color: (33, 21, 3) Counter: 0
+2024-08-12 06:37:24,532 Captcha Detection: (213,469) color: (34, 21, 3) Counter: 0
+2024-08-12 06:37:24,532 Captcha Detection: (722,375) color: (191, 130, 0) Counter: 0
+2024-08-12 06:37:24,532 Captcha Detection: (765,424) color: (255, 243, 2) Counter: 0
+2024-08-12 06:37:30,096 Action Performed: Spacebar
+2024-08-12 06:37:30,138 Captcha Detection: (218,372) color: (22, 13, 3) Counter: 0
+2024-08-12 06:37:30,138 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:37:30,138 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:30,138 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:30,139 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:35,698 Action Performed: Spacebar
+2024-08-12 06:37:35,737 Captcha Detection: (218,372) color: (22, 14, 3) Counter: 0
+2024-08-12 06:37:35,737 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:37:35,737 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:35,737 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:35,737 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:41,297 Action Performed: Spacebar
+2024-08-12 06:37:41,342 Captcha Detection: (218,372) color: (26, 18, 5) Counter: 0
+2024-08-12 06:37:41,342 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:37:41,342 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:41,343 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:41,343 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:46,906 Action Performed: Spacebar
+2024-08-12 06:37:46,946 Captcha Detection: (218,372) color: (98, 78, 0) Counter: 0
+2024-08-12 06:37:46,946 Captcha Detection: (214,427) color: (109, 90, 38) Counter: 0
+2024-08-12 06:37:46,946 Captcha Detection: (213,469) color: (113, 91, 0) Counter: 0
+2024-08-12 06:37:46,947 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:46,947 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:52,504 Action Performed: Spacebar
+2024-08-12 06:37:52,545 Captcha Detection: (218,372) color: (25, 17, 4) Counter: 0
+2024-08-12 06:37:52,545 Captcha Detection: (214,427) color: (31, 20, 3) Counter: 0
+2024-08-12 06:37:52,545 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:37:52,545 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:37:52,545 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:37:58,105 Action Performed: Spacebar
+2024-08-12 06:37:58,143 Captcha Detection: (218,372) color: (23, 15, 3) Counter: 0
+2024-08-12 06:37:58,144 Captcha Detection: (214,427) color: (30, 20, 3) Counter: 0
+2024-08-12 06:37:58,144 Captcha Detection: (213,469) color: (34, 21, 4) Counter: 0
+2024-08-12 06:37:58,144 Captcha Detection: (722,375) color: (188, 130, 0) Counter: 0
+2024-08-12 06:37:58,144 Captcha Detection: (765,424) color: (255, 241, 15) Counter: 0
+2024-08-12 06:38:03,704 Action Performed: Spacebar
+2024-08-12 06:38:03,746 Captcha Detection: (218,372) color: (22, 14, 3) Counter: 0
+2024-08-12 06:38:03,747 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:38:03,747 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:38:03,747 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:38:03,747 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0
+2024-08-12 06:38:09,305 Action Performed: Spacebar
+2024-08-12 06:38:09,355 Captcha Detection: (218,372) color: (20, 12, 2) Counter: 0
+2024-08-12 06:38:09,356 Captcha Detection: (214,427) color: (32, 21, 3) Counter: 0
+2024-08-12 06:38:09,356 Captcha Detection: (213,469) color: (32, 20, 3) Counter: 0
+2024-08-12 06:38:09,356 Captcha Detection: (722,375) color: (187, 129, 0) Counter: 0
+2024-08-12 06:38:09,356 Captcha Detection: (765,424) color: (255, 241, 3) Counter: 0

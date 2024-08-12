@@ -50,8 +50,8 @@ current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 debug_filename = f"screenshot_{current_time}.png"
 debug_file_path = os.path.join(debug_path, debug_filename)
 
-screenshot = ImageGrab.grab(bbox=(0, 0, 1024, 798))
-screenshot.save(debug_file_path)
+#screenshot = ImageGrab.grab(bbox=(0, 0, 1024, 798))
+#screenshot.save(debug_file_path)
 #######################DEBUG#####################
 
 keypress.initialize()

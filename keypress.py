@@ -16,7 +16,7 @@ folder_path = config["folder_path"]
 template_path = config["template_path"] 
 
 
-logging.basicConfig(filename="pywinauto.log", format='%(asctime)s %(message)s', filemode='w')
+logging.basicConfig(filename="Keypress.log", format='%(asctime)s %(message)s', filemode='w')
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -42,7 +42,7 @@ def initialize():
     time.sleep(0.5)
 
     logging.info("Initialization Complete")
-
+    print("Initialization Complete")
 
 
 def space():
