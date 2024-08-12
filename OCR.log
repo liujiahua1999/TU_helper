@@ -5,3 +5,270 @@
 2024-08-12 13:09:33,353 CACHEDIR=C:\Users\liuji\.matplotlib
 2024-08-12 13:09:33,354 Using fontManager instance from C:\Users\liuji\.matplotlib\fontlist-v390.json
 2024-08-12 13:09:33,868 <pywinauto.application.WindowSpecification object at 0x0000020844651750>
+2024-08-12 13:09:35,932 Initialization Complete
+2024-08-12 13:09:41,500 Keypress: Spacebar
+2024-08-12 13:09:41,500 Try to Capture
+2024-08-12 13:09:41,500 Fetch hwnd:3606700
+2024-08-12 13:09:41,712 Capture Succeeded
+2024-08-12 13:09:41,718 STREAM b'IHDR' 16 13
+2024-08-12 13:09:41,718 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:41,718 STREAM b'IHDR' 16 13
+2024-08-12 13:09:41,718 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:41,832 Unit Balance: 543938
+2024-08-12 13:09:41,847 Captcha Detection: (218,342) color: (61, 48, 39) Counter: 0
+2024-08-12 13:09:41,847 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:09:41,847 Captcha Detection: (213,439) color: (163, 107, 9) Counter: 0
+2024-08-12 13:09:41,848 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:09:41,848 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:09:47,405 Keypress: Spacebar
+2024-08-12 13:09:47,405 Try to Capture
+2024-08-12 13:09:47,405 Fetch hwnd:3606700
+2024-08-12 13:09:47,616 Capture Succeeded
+2024-08-12 13:09:47,621 STREAM b'IHDR' 16 13
+2024-08-12 13:09:47,621 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:47,622 STREAM b'IHDR' 16 13
+2024-08-12 13:09:47,622 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:47,735 Unit Balance: 543863
+2024-08-12 13:09:47,749 Captcha Detection: (218,342) color: (59, 45, 37) Counter: 0
+2024-08-12 13:09:47,749 Captcha Detection: (214,397) color: (49, 37, 29) Counter: 0
+2024-08-12 13:09:47,750 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:09:47,750 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:09:47,750 Captcha Detection: (765,394) color: (60, 49, 42) Counter: 0
+2024-08-12 13:09:53,317 Keypress: Spacebar
+2024-08-12 13:09:53,317 Try to Capture
+2024-08-12 13:09:53,317 Fetch hwnd:3606700
+2024-08-12 13:09:53,526 Capture Succeeded
+2024-08-12 13:09:53,531 STREAM b'IHDR' 16 13
+2024-08-12 13:09:53,532 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:53,532 STREAM b'IHDR' 16 13
+2024-08-12 13:09:53,532 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:53,645 Unit Balance: 543788
+2024-08-12 13:09:53,659 Captcha Detection: (218,342) color: (59, 46, 38) Counter: 0
+2024-08-12 13:09:53,659 Captcha Detection: (214,397) color: (49, 37, 30) Counter: 0
+2024-08-12 13:09:53,659 Captcha Detection: (213,439) color: (161, 106, 8) Counter: 0
+2024-08-12 13:09:53,659 Captcha Detection: (722,345) color: (200, 143, 18) Counter: 0
+2024-08-12 13:09:53,659 Captcha Detection: (765,394) color: (62, 51, 45) Counter: 0
+2024-08-12 13:09:59,221 Keypress: Spacebar
+2024-08-12 13:09:59,221 Try to Capture
+2024-08-12 13:09:59,222 Fetch hwnd:3606700
+2024-08-12 13:09:59,441 Capture Succeeded
+2024-08-12 13:09:59,445 STREAM b'IHDR' 16 13
+2024-08-12 13:09:59,445 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:59,446 STREAM b'IHDR' 16 13
+2024-08-12 13:09:59,446 STREAM b'IDAT' 41 65536
+2024-08-12 13:09:59,559 Unit Balance: 643713
+2024-08-12 13:09:59,574 Captcha Detection: (218,342) color: (61, 48, 39) Counter: 0
+2024-08-12 13:09:59,574 Captcha Detection: (214,397) color: (49, 36, 29) Counter: 0
+2024-08-12 13:09:59,575 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:09:59,575 Captcha Detection: (722,345) color: (199, 142, 18) Counter: 0
+2024-08-12 13:09:59,575 Captcha Detection: (765,394) color: (63, 52, 45) Counter: 0
+2024-08-12 13:10:05,138 Keypress: Spacebar
+2024-08-12 13:10:05,138 Try to Capture
+2024-08-12 13:10:05,138 Fetch hwnd:3606700
+2024-08-12 13:10:05,340 Capture Succeeded
+2024-08-12 13:10:05,345 STREAM b'IHDR' 16 13
+2024-08-12 13:10:05,345 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:05,345 STREAM b'IHDR' 16 13
+2024-08-12 13:10:05,345 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:05,459 Unit Balance: 543638
+2024-08-12 13:10:05,474 Captcha Detection: (218,342) color: (59, 46, 38) Counter: 0
+2024-08-12 13:10:05,475 Captcha Detection: (214,397) color: (50, 38, 30) Counter: 0
+2024-08-12 13:10:05,475 Captcha Detection: (213,439) color: (164, 108, 9) Counter: 0
+2024-08-12 13:10:05,475 Captcha Detection: (722,345) color: (199, 142, 18) Counter: 0
+2024-08-12 13:10:05,475 Captcha Detection: (765,394) color: (60, 49, 43) Counter: 0
+2024-08-12 13:10:11,042 Keypress: Spacebar
+2024-08-12 13:10:11,042 Try to Capture
+2024-08-12 13:10:11,042 Fetch hwnd:3606700
+2024-08-12 13:10:11,254 Capture Succeeded
+2024-08-12 13:10:11,260 STREAM b'IHDR' 16 13
+2024-08-12 13:10:11,261 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:11,261 STREAM b'IHDR' 16 13
+2024-08-12 13:10:11,261 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:11,379 Unit Balance: 543563
+2024-08-12 13:10:11,394 Captcha Detection: (218,342) color: (60, 47, 38) Counter: 0
+2024-08-12 13:10:11,395 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:10:11,395 Captcha Detection: (213,439) color: (164, 109, 10) Counter: 0
+2024-08-12 13:10:11,395 Captcha Detection: (722,345) color: (195, 140, 16) Counter: 0
+2024-08-12 13:10:11,395 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:10:16,961 Keypress: Spacebar
+2024-08-12 13:10:16,961 Try to Capture
+2024-08-12 13:10:16,961 Fetch hwnd:3606700
+2024-08-12 13:10:17,182 Capture Succeeded
+2024-08-12 13:10:17,187 STREAM b'IHDR' 16 13
+2024-08-12 13:10:17,187 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:17,187 STREAM b'IHDR' 16 13
+2024-08-12 13:10:17,187 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:17,307 Unit Balance: 543488
+2024-08-12 13:10:17,323 Captcha Detection: (218,342) color: (61, 48, 39) Counter: 0
+2024-08-12 13:10:17,323 Captcha Detection: (214,397) color: (49, 36, 29) Counter: 0
+2024-08-12 13:10:17,323 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:10:17,323 Captcha Detection: (722,345) color: (199, 142, 18) Counter: 0
+2024-08-12 13:10:17,323 Captcha Detection: (765,394) color: (63, 52, 45) Counter: 0
+2024-08-12 13:10:22,883 Keypress: Spacebar
+2024-08-12 13:10:22,883 Try to Capture
+2024-08-12 13:10:22,883 Fetch hwnd:3606700
+2024-08-12 13:10:23,088 Capture Succeeded
+2024-08-12 13:10:23,094 STREAM b'IHDR' 16 13
+2024-08-12 13:10:23,094 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:23,095 STREAM b'IHDR' 16 13
+2024-08-12 13:10:23,095 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:23,209 Unit Balance: 543413
+2024-08-12 13:10:23,224 Captcha Detection: (218,342) color: (59, 45, 37) Counter: 0
+2024-08-12 13:10:23,224 Captcha Detection: (214,397) color: (49, 37, 29) Counter: 0
+2024-08-12 13:10:23,224 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:10:23,224 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:10:23,225 Captcha Detection: (765,394) color: (60, 49, 42) Counter: 0
+2024-08-12 13:10:28,782 Keypress: Spacebar
+2024-08-12 13:10:28,782 Try to Capture
+2024-08-12 13:10:28,782 Fetch hwnd:3606700
+2024-08-12 13:10:28,987 Capture Succeeded
+2024-08-12 13:10:28,992 STREAM b'IHDR' 16 13
+2024-08-12 13:10:28,992 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:28,992 STREAM b'IHDR' 16 13
+2024-08-12 13:10:28,992 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:29,106 Unit Balance: 543338
+2024-08-12 13:10:29,121 Captcha Detection: (218,342) color: (60, 47, 38) Counter: 0
+2024-08-12 13:10:29,121 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:10:29,121 Captcha Detection: (213,439) color: (164, 109, 10) Counter: 0
+2024-08-12 13:10:29,122 Captcha Detection: (722,345) color: (195, 140, 16) Counter: 0
+2024-08-12 13:10:29,122 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:10:34,682 Keypress: Spacebar
+2024-08-12 13:10:34,682 Try to Capture
+2024-08-12 13:10:34,682 Fetch hwnd:3606700
+2024-08-12 13:10:34,892 Capture Succeeded
+2024-08-12 13:10:34,897 STREAM b'IHDR' 16 13
+2024-08-12 13:10:34,897 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:34,897 STREAM b'IHDR' 16 13
+2024-08-12 13:10:34,897 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:35,011 Unit Balance: 543263
+2024-08-12 13:10:35,026 Captcha Detection: (218,342) color: (59, 45, 37) Counter: 0
+2024-08-12 13:10:35,026 Captcha Detection: (214,397) color: (49, 37, 29) Counter: 0
+2024-08-12 13:10:35,026 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:10:35,026 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:10:35,027 Captcha Detection: (765,394) color: (60, 49, 42) Counter: 0
+2024-08-12 13:10:40,594 Keypress: Spacebar
+2024-08-12 13:10:40,594 Try to Capture
+2024-08-12 13:10:40,594 Fetch hwnd:3606700
+2024-08-12 13:10:40,796 Capture Succeeded
+2024-08-12 13:10:40,802 STREAM b'IHDR' 16 13
+2024-08-12 13:10:40,802 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:40,808 STREAM b'IHDR' 16 13
+2024-08-12 13:10:40,808 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:40,951 Unit Balance: 543188
+2024-08-12 13:10:40,967 Captcha Detection: (218,342) color: (60, 47, 38) Counter: 0
+2024-08-12 13:10:40,967 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:10:40,967 Captcha Detection: (213,439) color: (164, 109, 10) Counter: 0
+2024-08-12 13:10:40,967 Captcha Detection: (722,345) color: (195, 140, 16) Counter: 0
+2024-08-12 13:10:40,967 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:10:46,534 Keypress: Spacebar
+2024-08-12 13:10:46,534 Try to Capture
+2024-08-12 13:10:46,534 Fetch hwnd:3606700
+2024-08-12 13:10:46,741 Capture Succeeded
+2024-08-12 13:10:46,746 STREAM b'IHDR' 16 13
+2024-08-12 13:10:46,746 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:46,746 STREAM b'IHDR' 16 13
+2024-08-12 13:10:46,747 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:46,858 Unit Balance: 643113
+2024-08-12 13:10:46,873 Captcha Detection: (218,342) color: (60, 47, 38) Counter: 0
+2024-08-12 13:10:46,873 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:10:46,873 Captcha Detection: (213,439) color: (164, 109, 10) Counter: 0
+2024-08-12 13:10:46,873 Captcha Detection: (722,345) color: (195, 140, 16) Counter: 0
+2024-08-12 13:10:46,873 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:10:52,433 Keypress: Spacebar
+2024-08-12 13:10:52,433 Try to Capture
+2024-08-12 13:10:52,433 Fetch hwnd:3606700
+2024-08-12 13:10:52,643 Capture Succeeded
+2024-08-12 13:10:52,648 STREAM b'IHDR' 16 13
+2024-08-12 13:10:52,648 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:52,649 STREAM b'IHDR' 16 13
+2024-08-12 13:10:52,649 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:52,761 Unit Balance: 543038
+2024-08-12 13:10:52,776 Captcha Detection: (218,342) color: (59, 46, 37) Counter: 0
+2024-08-12 13:10:52,776 Captcha Detection: (214,397) color: (49, 37, 29) Counter: 0
+2024-08-12 13:10:52,776 Captcha Detection: (213,439) color: (165, 109, 10) Counter: 0
+2024-08-12 13:10:52,776 Captcha Detection: (722,345) color: (197, 140, 17) Counter: 0
+2024-08-12 13:10:52,776 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:10:58,335 Keypress: Spacebar
+2024-08-12 13:10:58,335 Try to Capture
+2024-08-12 13:10:58,335 Fetch hwnd:3606700
+2024-08-12 13:10:58,543 Capture Succeeded
+2024-08-12 13:10:58,548 STREAM b'IHDR' 16 13
+2024-08-12 13:10:58,548 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:58,549 STREAM b'IHDR' 16 13
+2024-08-12 13:10:58,549 STREAM b'IDAT' 41 65536
+2024-08-12 13:10:58,661 Unit Balance: 542963
+2024-08-12 13:10:58,676 Captcha Detection: (218,342) color: (59, 46, 38) Counter: 0
+2024-08-12 13:10:58,677 Captcha Detection: (214,397) color: (49, 37, 30) Counter: 0
+2024-08-12 13:10:58,677 Captcha Detection: (213,439) color: (161, 106, 8) Counter: 0
+2024-08-12 13:10:58,677 Captcha Detection: (722,345) color: (200, 143, 18) Counter: 0
+2024-08-12 13:10:58,677 Captcha Detection: (765,394) color: (62, 51, 45) Counter: 0
+2024-08-12 13:11:04,236 Keypress: Spacebar
+2024-08-12 13:11:04,236 Try to Capture
+2024-08-12 13:11:04,236 Fetch hwnd:3606700
+2024-08-12 13:11:04,442 Capture Succeeded
+2024-08-12 13:11:04,447 STREAM b'IHDR' 16 13
+2024-08-12 13:11:04,447 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:04,448 STREAM b'IHDR' 16 13
+2024-08-12 13:11:04,448 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:04,588 Unit Balance: 542888
+2024-08-12 13:11:04,605 Captcha Detection: (218,342) color: (61, 48, 39) Counter: 0
+2024-08-12 13:11:04,605 Captcha Detection: (214,397) color: (49, 36, 29) Counter: 0
+2024-08-12 13:11:04,605 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:11:04,605 Captcha Detection: (722,345) color: (199, 142, 18) Counter: 0
+2024-08-12 13:11:04,606 Captcha Detection: (765,394) color: (63, 52, 45) Counter: 0
+2024-08-12 13:11:10,148 Keypress: Spacebar
+2024-08-12 13:11:10,148 Try to Capture
+2024-08-12 13:11:10,149 Fetch hwnd:3606700
+2024-08-12 13:11:10,350 Capture Succeeded
+2024-08-12 13:11:10,356 STREAM b'IHDR' 16 13
+2024-08-12 13:11:10,356 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:10,356 STREAM b'IHDR' 16 13
+2024-08-12 13:11:10,356 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:10,470 Unit Balance: 542813
+2024-08-12 13:11:10,486 Captcha Detection: (218,342) color: (59, 46, 38) Counter: 0
+2024-08-12 13:11:10,486 Captcha Detection: (214,397) color: (50, 38, 30) Counter: 0
+2024-08-12 13:11:10,486 Captcha Detection: (213,439) color: (164, 108, 9) Counter: 0
+2024-08-12 13:11:10,486 Captcha Detection: (722,345) color: (199, 142, 18) Counter: 0
+2024-08-12 13:11:10,486 Captcha Detection: (765,394) color: (60, 49, 43) Counter: 0
+2024-08-12 13:11:16,047 Keypress: Spacebar
+2024-08-12 13:11:16,047 Try to Capture
+2024-08-12 13:11:16,047 Fetch hwnd:3606700
+2024-08-12 13:11:16,255 Capture Succeeded
+2024-08-12 13:11:16,259 STREAM b'IHDR' 16 13
+2024-08-12 13:11:16,259 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:16,259 STREAM b'IHDR' 16 13
+2024-08-12 13:11:16,260 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:16,372 Unit Balance: 542738
+2024-08-12 13:11:16,387 Captcha Detection: (218,342) color: (61, 48, 39) Counter: 0
+2024-08-12 13:11:16,387 Captcha Detection: (214,397) color: (51, 38, 31) Counter: 0
+2024-08-12 13:11:16,388 Captcha Detection: (213,439) color: (163, 107, 9) Counter: 0
+2024-08-12 13:11:16,388 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:11:16,388 Captcha Detection: (765,394) color: (61, 49, 43) Counter: 0
+2024-08-12 13:11:21,949 Keypress: Spacebar
+2024-08-12 13:11:21,949 Try to Capture
+2024-08-12 13:11:21,949 Fetch hwnd:3606700
+2024-08-12 13:11:22,159 Capture Succeeded
+2024-08-12 13:11:22,164 STREAM b'IHDR' 16 13
+2024-08-12 13:11:22,164 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:22,165 STREAM b'IHDR' 16 13
+2024-08-12 13:11:22,165 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:22,279 Unit Balance: 542663
+2024-08-12 13:11:22,294 Captcha Detection: (218,342) color: (59, 45, 37) Counter: 0
+2024-08-12 13:11:22,295 Captcha Detection: (214,397) color: (49, 37, 29) Counter: 0
+2024-08-12 13:11:22,295 Captcha Detection: (213,439) color: (163, 108, 9) Counter: 0
+2024-08-12 13:11:22,295 Captcha Detection: (722,345) color: (201, 144, 19) Counter: 0
+2024-08-12 13:11:22,295 Captcha Detection: (765,394) color: (60, 49, 42) Counter: 0
+2024-08-12 13:11:27,860 Keypress: Spacebar
+2024-08-12 13:11:27,860 Try to Capture
+2024-08-12 13:11:27,861 Fetch hwnd:3606700
+2024-08-12 13:11:28,072 Capture Succeeded
+2024-08-12 13:11:28,078 STREAM b'IHDR' 16 13
+2024-08-12 13:11:28,078 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:28,078 STREAM b'IHDR' 16 13
+2024-08-12 13:11:28,078 STREAM b'IDAT' 41 65536
+2024-08-12 13:11:28,200 Unit Balance: 542588
+2024-08-12 13:11:28,215 Captcha Detection: (218,342) color: (59, 46, 38) Counter: 0
+2024-08-12 13:11:28,215 Captcha Detection: (214,397) color: (49, 37, 30) Counter: 0
+2024-08-12 13:11:28,215 Captcha Detection: (213,439) color: (161, 106, 8) Counter: 0
+2024-08-12 13:11:28,215 Captcha Detection: (722,345) color: (200, 143, 18) Counter: 0
+2024-08-12 13:11:28,216 Captcha Detection: (765,394) color: (62, 51, 45) Counter: 0
