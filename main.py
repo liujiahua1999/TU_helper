@@ -7,7 +7,7 @@ import grayscale_OCR
 import json
 import keypress
 import bg_screenshot
-
+import UnitCapture
 
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
@@ -61,7 +61,9 @@ while True:
     print("-------------------------------------------------------------------------\n")
     bg_screenshot.capture()
     screenshot = Image.open(r"capture.png")
-    
+    UnitBalance = UnitCapture.filter_image()
+    print("Unit Balance: " + str(UnitBalance))
+    logger.info("Unit Balance: " + str(UnitBalance))   
     # Black Detection
     def is_color_within_tolerance(color, target_color, tolerance):
         return all(abs(color[i] - target_color[i]) <= tolerance for i in range(3))
