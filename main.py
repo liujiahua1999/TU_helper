@@ -15,8 +15,7 @@ import keypress
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
 
-game_path = config["game_path"]
-pytesseract_path = config["pytesseract_path"]
+
 debug_path = config["debug_path"]
 alert_sound_path = config["alert_sound_path"] 
 folder_path = config["folder_path"]  
@@ -42,7 +41,6 @@ points_to_check = [(218,372), (214,427), (213,469), (722,375), (765,424)]
 target_color = (0, 0, 0)  # Pure black
 tolerance = 15  # Tolerance level for detecting shades of black
 
-pytesseract.pytesseract.tesseract_cmd = pytesseract_path
 
 
 #playsound(alert_sound_path)
@@ -62,7 +60,7 @@ keypress.initialize()
 blackpoint_counter = 0
 
 while True:
-    keypress.space()
+    keypress.space() 
     print("-------------------------------------------------------------------------\n")
     screenshot = ImageGrab.grab(bbox=(0, 0, 1024, 798))
     
@@ -97,7 +95,7 @@ while True:
                 screenshot2.save(r"image.png")
                 print(f"Screenshot saved to: {file_path}")
                 logger.info(f"Screenshot saved to: {file_path}")
-                answer = grayscale_OCR(screenshot2,template_path)
+                answer = grayscale_OCR.grayscale_OCR(screenshot2,template_path)
                 
                 keypress.response(answer)
 

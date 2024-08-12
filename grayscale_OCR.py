@@ -11,15 +11,14 @@ import pytesseract
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
 
-game_path = config["game_path"]
-pytesseract_path = config["pytesseract_path"]
+
 debug_path = config["debug_path"]
 alert_sound_path = config["alert_sound_path"] 
 folder_path = config["folder_path"]  
 template_path = config["template_path"] 
 
 
-
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 logging.basicConfig(filename="OCR.log", format='%(asctime)s %(message)s', filemode='w')
 logger = logging.getLogger()
 ################################GRAYSCALE&CONVERTION#########################################

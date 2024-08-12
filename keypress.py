@@ -1,5 +1,5 @@
 from pywinauto.application import Application
-from pywinauto.keyboard import send_keys
+import pywinauto.keyboard as keyboard
 from pywinauto.mouse import click
 import json
 import time
@@ -9,8 +9,7 @@ import logging
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
 
-game_path = config["game_path"]
-pytesseract_path = config["pytesseract_path"]
+
 debug_path = config["debug_path"]
 alert_sound_path = config["alert_sound_path"] 
 folder_path = config["folder_path"]  
@@ -23,37 +22,39 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 
-
+app = Application(backend="win32").connect(path=r"E:\SteamLibrary\steamapps\common\Tower Unite\Tower\Binaries\Win64")
+game_window = app['Tower Unite']
 
 def initialize():
-    app = Application(backend="win32").connect(path=game_path)
-    dlg_spec = app.window(title='Tower Unite')
-    print(dlg_spec)
-    logging.info(dlg_spec)
+    app = Application(backend="win32").connect(path=r"E:\SteamLibrary\steamapps\common\Tower Unite\Tower\Binaries\Win64")
+    game_window = app['Tower Unite']
+    print(game_window)
+    logging.info(game_window)
     while not app.windows():
         time.sleep(.5)
         print("insleep\n")
 
-    click(button='left', coords=(150, 150))
+    #click(button='left', coords=(150, 150))
     time.sleep(1.5)
 
 
-    send_keys("{3 down}")
+    game_window.send_keystrokes("{3}")
     time.sleep(0.5)
-    send_keys("{3 up}")
+
     logging.info("Initialization Complete")
 
 
 
 def space():
-    send_keys("{SPACE}")
+    game_window.send_keystrokes("{SPACE}")
     time.sleep(5.5)
+    print("Action Performed: Spacebar")
+    logger.info("Action Performed: Spacebar")
 
 
 def response(answer):
     time.sleep(2.5)
-    keycompose_down = str("{"+answer+" down}")
-    keycompose_up = str("{"+answer+" up}")
-    send_keys(keycompose_down)
+    keycompose = str("{"+answer+"}")
+
+    game_window.send_keystrokes(keycompose)
     time.sleep(0.5)
-    send_keys(keycompose_up)
