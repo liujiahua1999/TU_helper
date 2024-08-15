@@ -1,10 +1,7 @@
 from pywinauto.application import Application
-import pywinauto.keyboard as keyboard
 from pywinauto.mouse import click
-import json
-import time
-import logging
-
+import json, time, logging
+from click import click,moveover
 
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
@@ -23,7 +20,7 @@ logger.setLevel(logging.DEBUG)
 
 
 app = Application(backend="win32").connect(path=r"E:\SteamLibrary\steamapps\common\Tower Unite\Tower\Binaries\Win64")
-game_window = app['Tower Unite']
+game_window = app['Tower Unite  ']
 
 def initialize():
     app = Application(backend="win32").connect(path=r"E:\SteamLibrary\steamapps\common\Tower Unite\Tower\Binaries\Win64")
@@ -60,3 +57,59 @@ def response(answer):
     time.sleep(0.5)
     print("Answer: " + str(answer))
     logger.info("Answer: "+ str(answer))
+
+
+def reconnect_tp():
+    game_window.send_keystrokes("{SPACE}")
+    time.sleep(1.5)
+    game_window.send_keystrokes("{M}")
+    time.sleep(1.5)
+    moveover(65,240)
+    time.sleep(0.3)
+    click(65,240)
+    time.sleep(0.3)
+    game_window.send_keystrokes("{ESC}")
+    time.sleep(0.3)
+    game_window.send_keystrokes("{ESC}")
+
+
+
+
+def movetomachine():
+
+    try:
+        game_window.send_keystrokes("{W down}")
+        time.sleep(2.5)
+        game_window.send_keystrokes("{W up}")
+    except:
+        pass
+    time.sleep(0.5)
+    try:
+        game_window.send_keystrokes("{A down}")
+        time.sleep(0.4)
+        game_window.send_keystrokes("{A up}")
+    except:
+        pass
+    time.sleep(0.5)
+    try:
+        game_window.send_keystrokes("{W down}")
+        time.sleep(3.8)
+        game_window.send_keystrokes("{W up}")
+    except:
+        pass
+    time.sleep(0.5)
+    try:
+        game_window.send_keystrokes("{A down}")
+        time.sleep(1.2)
+        game_window.send_keystrokes("{A up}")
+    except:
+        pass
+    time.sleep(0.5)
+    try:
+        game_window.send_keystrokes("{W down}")
+        time.sleep(1.4)
+        game_window.send_keystrokes("{W up}")
+    except:
+        pass
+
+    game_window.send_keystrokes("{E}")

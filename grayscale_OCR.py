@@ -21,6 +21,11 @@ template_path = config["template_path"]
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 logging.basicConfig(filename="OCR.log", format='%(asctime)s %(message)s', filemode='w')
 logger = logging.getLogger()
+
+def is_color_within_tolerance(color, target_color, tolerance):
+    return all(abs(color[i] - target_color[i]) <= tolerance for i in range(3))
+
+
 ################################GRAYSCALE&CONVERTION#########################################
 def grayscale_OCR(image,template):
 
@@ -90,3 +95,8 @@ def grayscale_OCR(image,template):
     result = first_alphabet_char(character)
     return result
 ################################GRAYSCALE&CONVERTION#########################################
+
+
+
+
+

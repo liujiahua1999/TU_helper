@@ -1,10 +1,8 @@
 
-import win32gui
+import win32gui, win32ui
 from ctypes import windll
-import win32ui
 from PIL import Image
 import logging
-
 
 
 logging.basicConfig(filename="Main.log", format='%(asctime)s %(message)s', filemode='w')
@@ -66,3 +64,8 @@ def capture():
     else:
         logger.warning("Capture failed")
         print("Capture failed")
+
+
+
+
+

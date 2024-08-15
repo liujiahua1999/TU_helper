@@ -8,6 +8,7 @@ import json
 import keypress
 import bg_screenshot
 import UnitCapture
+import reconnect
 
 with open('PATH.json', 'r') as config_file:
     config = json.load(config_file)
@@ -36,7 +37,7 @@ points_to_check = [(218,342), (214,397), (213,439), (722,345), (765,394)]
 
     # Define a target color (black) and tolerance
 target_color = (0, 0, 0)  # Pure black
-tolerance = 15  # Tolerance level for detecting shades of black
+tolerance = 12  # Tolerance level for detecting shades of black
 
 
 
@@ -65,9 +66,9 @@ while True:
     print("Unit Balance: " + str(UnitBalance))
     logger.info("Unit Balance: " + str(UnitBalance))   
     # Black Detection
-    def is_color_within_tolerance(color, target_color, tolerance):
-        return all(abs(color[i] - target_color[i]) <= tolerance for i in range(3))
-        
+
+    reconnect.reconnet_check()
+      
     blackpoint_counter = 0
     # Check the color at each specified point
     for point in points_to_check:
@@ -76,7 +77,7 @@ while True:
         print("Captcha Detection: (" + str(x) + "," + str(y) + ") color: " + str(pixel_color) + " Counter: " + str(blackpoint_counter))
         logger.info("Captcha Detection: (" + str(x) + "," + str(y) + ") color: " + str(pixel_color) + " Counter: " + str(blackpoint_counter))
 
-        if is_color_within_tolerance(pixel_color, target_color, tolerance):
+        if grayscale_OCR.is_color_within_tolerance(pixel_color, target_color, tolerance):
             print(f"Black found at point ({x}, {y}): {pixel_color}")
             logger.warning(f"Black found at point ({x}, {y}): {pixel_color}")
             blackpoint_counter += 1
