@@ -32,8 +32,9 @@ def reconnect_action():
     keypress.movetomachine()
 
 
-    
+
 def reconnet_check():
+    screenshot = Image.open(r"capture.png")
     reconnect_to_check = [(485,422), (548,421), (488,449), (548,449)]
 
     target_color = (0, 178, 142)  
