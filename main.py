@@ -68,7 +68,7 @@ while True:
     # Black Detection
 
     reconnect.reconnet_check()
-      
+
     blackpoint_counter = 0
     # Check the color at each specified point
     for point in points_to_check:

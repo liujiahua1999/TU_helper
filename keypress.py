@@ -1,5 +1,5 @@
 from pywinauto.application import Application
-from pywinauto.mouse import click
+import pywinauto.mouse
 import json, time, logging
 from click import click,moveover
 
@@ -59,7 +59,32 @@ def response(answer):
     logger.info("Answer: "+ str(answer))
 
 
+def reconnect_init():
+    #Wait 5 Min
+    print("Reconnection Started")
+    logger.info("Reconnection Started")    
+    #time.sleep(300)
+    app.top_window().set_focus()
+    #Click OK
+    moveover(514,435)
+    time.sleep(1.5)
+    
+    pywinauto.mouse.click
+    click(514,435)
+    time.sleep(3.5)
+
+    #Start Reconnecting
+    click(128,100)
+    time.sleep(3.5)
+
+    #Choose the Server Rank #2 on the list
+    click(734,266)
+    #Wait 2 Min
+    time.sleep(120)
+
 def reconnect_tp():
+    print("Reonnection Teleport to Position Started")
+    logger.warning("Reonnection Teleport to Position Started")
     game_window.send_keystrokes("{SPACE}")
     time.sleep(1.5)
     game_window.send_keystrokes("{M}")
@@ -76,7 +101,8 @@ def reconnect_tp():
 
 
 def movetomachine():
-
+    print("Move to Machine Started ")
+    logger.warning("Move to Machine Started ")
     try:
         game_window.send_keystrokes("{W down}")
         time.sleep(2.5)
